@@ -5,6 +5,7 @@
 
 * [Dive into HTML5](http://diveintohtml5.info/)
 * [Input Type Sandbox](http://inputtypes.com/) - Test onscreen keyboards, input types, patterns and attributes
+* [HTML Inspector](https://github.com/philipwalton/html-inspector)
 
 
 ## CSS
@@ -13,19 +14,31 @@
 * [Sass Guidelines](http://sass-guidelin.es/)
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
 * [Specificity Calculator](http://specificity.keegan.st/)
-
-
-## Tools during Dev/Build
-
-* [HTML Inspector](https://github.com/philipwalton/html-inspector)
 * [csscss](http://zmoazeni.github.io/csscss/)
+
+
+## JavaScript
+
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [HTML5 Please](http://html5please.com/) - Search for polyfills
+* [JSON Visualization](http://chris.photobooks.com/json/)
+
+
+## JavaScript Libraries
+
+* [Gremlins.js](https://github.com/marmelab/gremlins.js) - monkey testing library for web apps and node.js
+* [Chosen](http://harvesthq.github.io/chosen/) - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
 
 
 ## NPM
 
+* [browserSync](http://www.browsersync.io/)
+* [Gulp](http://gulpjs.com/)
 * [gulp-ruby-sass](https://www.npmjs.com/package/gulp-ruby-sass)
 * [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
-* [svgo](https://www.npmjs.com/package/svgo)
+* [UglifyJS](https://www.npmjs.com/package/uglify-js)
+* [svgo](https://www.npmjs.com/package/svgo) - optimizing SVG vector graphics files
+* [Flightplan](https://www.npmjs.org/package/flightplan) - very flexible/powerful deployment/systems administration tasks tool
 
 
 ## Performance
@@ -39,6 +52,7 @@
 
 * [cdnjs.com](https://cdnjs.com/)
 * [Polyfill service](https://cdn.polyfill.io)
+* [Cloudflare](https://www.cloudflare.com/)
 
 
 ## Terminal
