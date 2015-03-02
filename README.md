@@ -65,6 +65,13 @@
 * [Launch an OS X Terminal Window from the Finder](http://lifehacker.com/launch-an-os-x-terminal-window-from-a-specific-folder-1466745514)
 
 
+## Editors
+
+* [WebStorm](https://www.jetbrains.com/webstorm/)
+* [Sublime Text](http://www.sublimetext.com/)
+* [Prose](http://prose.io) - GitHub content editor
+
+
 ## Sublime Text 3 Plugins
 
 * [Package Control](https://packagecontrol.io/installation)
