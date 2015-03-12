@@ -53,15 +53,15 @@
 
 ## Web Services
 
-* [cdnjs.com](https://cdnjs.com/) - CDN for js, css, images, icon fonts, etc.
+* [cdnjs.com](https://cdnjs.com/) - cdn for js, css, images, icon fonts, etc.
 * [Polyfill service](https://cdn.polyfill.io)
 * [Cloudflare](https://www.cloudflare.com/)
 
 
 ## Terminal
 
-* [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm` by moving files and directories to the trash
-* [iTerm2](http://iterm2.com/) -replacement for Terminal
+* [trash](https://github.com/sindresorhus/trash) - safer alternative to `rm` by moving files and directories to the trash
+* [iTerm2](http://iterm2.com/) - replacement for Terminal
 * [ranger](https://github.com/hut/ranger) - text-based file manager which works like the column view in OS X’s Finder
 * [z](https://github.com/rupa/z) - cd into most used directories
 * [Launch an OS X Terminal Window from the Finder](http://lifehacker.com/launch-an-os-x-terminal-window-from-a-specific-folder-1466745514)
@@ -71,7 +71,7 @@
 
 * [WebStorm](https://www.jetbrains.com/webstorm/)
 * [Sublime Text](http://www.sublimetext.com/)
-* [Prose](http://prose.io) - GitHub content editor
+* [Prose](http://prose.io) - gitHub content editor
 
 
 ## Sublime Text 3 Plugins
@@ -115,7 +115,7 @@
 
 ## UX
 
-* [Hyper Island Toolbox](http://toolbox.hyperisland.com/) - A resource kit you can use to apply creative collaboration and unleash potential in your team or organization
+* [Hyper Island Toolbox](http://toolbox.hyperisland.com/) - a resource kit you can use to apply creative collaboration and unleash potential in your team or organization
 * [UX Myths](http://uxmyths.com/)
 * [50 User Experience Best Practices](http://userexperiencedesigns.com/assets/pdf/50-UX-Best-Practices.pdf) - pdf
 * [Google Ventures Library](http://www.gv.com/library)
