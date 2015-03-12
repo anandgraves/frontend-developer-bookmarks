@@ -113,6 +113,7 @@
 
 ## UX
 
+* [Hyper Island Toolbox](http://toolbox.hyperisland.com/) - A resource kit you can use to apply creative collaboration and unleash potential in your team or organization
 * [UX Myths](http://uxmyths.com/)
 * [50 User Experience Best Practices](http://userexperiencedesigns.com/assets/pdf/50-UX-Best-Practices.pdf) - pdf
 * [Google Ventures Library](http://www.gv.com/library)
