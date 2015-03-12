@@ -40,6 +40,7 @@
 * [UglifyJS](https://www.npmjs.com/package/uglify-js)
 * [svgo](https://www.npmjs.com/package/svgo) - optimizing SVG vector graphics files
 * [Flightplan](https://www.npmjs.org/package/flightplan) - very flexible/powerful deployment/systems administration tasks tool
+* [run-sequence](https://www.npmjs.com/package/run-sequence)
 
 
 ## Performance
