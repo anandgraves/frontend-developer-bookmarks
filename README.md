@@ -4,7 +4,7 @@
 ## HTML
 
 * [Dive into HTML5](http://diveintohtml5.info/)
-* [Input Type Sandbox](http://inputtypes.com/) - Test onscreen keyboards, input types, patterns and attributes
+* [Input Type Sandbox](http://inputtypes.com/) - test onscreen keyboards, input types, patterns and attributes
 * [HTML Inspector](https://github.com/philipwalton/html-inspector)
 
 
@@ -16,13 +16,13 @@
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
 * [Specificity Calculator](http://specificity.keegan.st/)
 * [csscss](http://zmoazeni.github.io/csscss/)
-* [Susy toolkit](http://susy.oddbird.net/) - Extremely versatile grid toolkit
+* [Susy toolkit](http://susy.oddbird.net/) - extremely versatile grid toolkit
 
 
 ## JavaScript
 
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-* [HTML5 Please](http://html5please.com/) - Search for polyfills
+* [HTML5 Please](http://html5please.com/) - search for polyfills
 * [JSON Visualization](http://chris.photobooks.com/json/)
 
 
