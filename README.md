@@ -53,7 +53,7 @@
 
 ## Web Services
 
-* [cdnjs.com](https://cdnjs.com/)
+* [cdnjs.com](https://cdnjs.com/) - CDN for js, css, images, icon fonts, etc.
 * [Polyfill service](https://cdn.polyfill.io)
 * [Cloudflare](https://www.cloudflare.com/)
 
