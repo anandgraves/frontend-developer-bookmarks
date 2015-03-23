@@ -1,6 +1,11 @@
 # Frontend Developer Bookmarks
 
 
+## Courses
+
+* [CS50 lectures](https://cs50.harvard.edu/lectures/0/w)
+
+
 ## HTML
 
 * [Dive into HTML5](http://diveintohtml5.info/)
@@ -90,6 +95,7 @@
 
 ## Chrome Extensions
 
+* [Postman](http://www.getpostman.com/) - REST Client (packaged app)
 * [Emmet Re:View](http://re-view.emmet.io/)
 * [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn/)
 * [Awesome Screenshot: Capture & Annotate](https://chrome.google.com/webstore/detail/awesome-screenshot-captur/alelhddbbhepgpmgidjdcjakblofbmce)
