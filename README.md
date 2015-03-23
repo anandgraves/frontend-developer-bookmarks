@@ -96,6 +96,8 @@
 
 ## Chrome Extensions
 
+* [Dream Afar New Tab](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn) - Displays stunning landscapes on the new tab page
+* [JSON Formatter](https://github.com/callumlocke/json-formatter)
 * [Postman](http://www.getpostman.com/) - REST Client (packaged app)
 * [Emmet Re:View](http://re-view.emmet.io/)
 * [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn/)
