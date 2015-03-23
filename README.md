@@ -27,6 +27,7 @@
 
 ## JavaScript
 
+* [JSbooks](http://jsbooks.revolunet.com/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [HTML5 Please](http://html5please.com/) - search for polyfills
 * [JSON Visualization](http://chris.photobooks.com/json/)
@@ -111,7 +112,7 @@
 ## Server
 
 * [Htaccess](https://github.com/h5bp/html5-boilerplate/blob/master/dist/.htaccess) - html5 boilerplate
-* [HTTP Request & Response Service](http://httpbin.org/) - testing post requests
+* [HTTP Request & Response Service](http://httpbin.org/) - HTTP Request & Response Service
 
 
 ## SEO
