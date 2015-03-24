@@ -1,6 +1,11 @@
 # Frontend Developer Bookmarks
 
 
+## General
+
+* [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
+
+
 ## Courses
 
 * [CS50 lectures](https://cs50.harvard.edu/lectures/0/w)
