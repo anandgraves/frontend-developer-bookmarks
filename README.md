@@ -131,6 +131,7 @@
 
 ## UX
 
+* [User Onboarding](https://www.useronboard.com/onboarding-teardowns/) - see how popular web apps handle their signup experiences (Slack, Evernote, Instagram, Trello, Meetup, etc.)
 * [Hyper Island Toolbox](http://toolbox.hyperisland.com/) - a resource kit you can use to apply creative collaboration and unleash potential in your team or organization
 * [UX Myths](http://uxmyths.com/)
 * [50 User Experience Best Practices](http://userexperiencedesigns.com/assets/pdf/50-UX-Best-Practices.pdf) - pdf
