@@ -31,6 +31,7 @@
 
 ## JavaScript
 
+* [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
 * [JSbooks](http://jsbooks.revolunet.com/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [HTML5 Please](http://html5please.com/) - search for polyfills
