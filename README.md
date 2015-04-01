@@ -40,6 +40,7 @@
 
 ## JavaScript Libraries
 
+* [is.js](https://github.com/arasatasaygin/is.js) - micro check library
 * [Gremlins.js](https://github.com/marmelab/gremlins.js) - monkey testing library for web apps and node.js
 * [Chosen](http://harvesthq.github.io/chosen/) - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
 
