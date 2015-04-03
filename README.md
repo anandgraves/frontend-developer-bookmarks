@@ -42,6 +42,7 @@
 
 * [microjs](http://microjs.com/) - micro-frameworks and micro-libraries
 * [is.js](https://github.com/arasatasaygin/is.js) - micro check library
+* [fastclick](https://github.com/ftlabs/fastclick) - polyfill to remove click delays on browsers with touch UIs
 * [Gremlins.js](https://github.com/marmelab/gremlins.js) - monkey testing library for web apps and node.js
 * [Chosen](http://harvesthq.github.io/chosen/) - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
 
