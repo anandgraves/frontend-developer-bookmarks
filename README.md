@@ -72,6 +72,7 @@
 * [cdnjs.com](https://cdnjs.com/) - cdn for js, css, images, icon fonts, etc.
 * [Polyfill service](https://cdn.polyfill.io)
 * [Cloudflare](https://www.cloudflare.com/)
+* [Slack](https://slack.com/) - (free) platform for team communication
 
 
 ## Terminal
