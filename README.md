@@ -6,6 +6,12 @@
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 
 
+## No Frameworks
+
+* [Do Not Learn Frameworks. Learn the Architecture](http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture)
+* [No more JS frameworks](http://bitworking.org/news/2014/05/zero_framework_manifesto)
+
+
 ## Courses
 
 * [CS50 lectures](https://cs50.harvard.edu/lectures/0/w)
