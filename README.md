@@ -47,6 +47,13 @@
 * [Chosen](http://harvesthq.github.io/chosen/) - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
 
 
+## Code Playground
+
+* [CodePen](http://codepen.io/)
+* [JS Bin](http://jsbin.com/)
+* [repl.it](http://repl.it/) - terminal emulator and code editor for multiple languages
+
+
 ## NPM
 
 * [browserSync](http://www.browsersync.io/)
