@@ -80,6 +80,7 @@
 * [Polyfill service](https://cdn.polyfill.io)
 * [Cloudflare](https://www.cloudflare.com/)
 * [Slack](https://slack.com/) - (free) platform for team communication
+* [Trello](https://trello.com) -visually organize your projects
 
 
 ## Terminal
