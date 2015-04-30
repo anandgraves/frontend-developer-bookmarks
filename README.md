@@ -18,6 +18,12 @@
 * [CS50 lectures](https://cs50.harvard.edu/lectures/0/w)
 
 
+## Build Cross Platform Apps
+
+* [electron](http://electron.atom.io/) - build desktop apps in html, css, javascript for mac/windows/linux with automatic updates & installers
+* [electron boilerplate](https://github.com/sindresorhus/electron-boilerplate)
+* [NativeScript](https://www.nativescript.org/) - build native mobile apps for ios, android and windows phone from a single code base with javascript and css
+
 ## HTML
 
 * [Dive into HTML5](http://diveintohtml5.info/)
