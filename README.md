@@ -173,6 +173,11 @@
 * [The User Is Drunk](http://theuserisdrunk.com/)
 
 
+## Fonts
+
+* [Web Font Load](http://webfontload.com/) - install all google fonts with 1 terminal command
+
+
 ## Generate dummy content
 
 * [loripsum](http://loripsum.net/) - A lorem ipsum generator that generates more than just plain text
