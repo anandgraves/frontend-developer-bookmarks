@@ -171,6 +171,11 @@
 * [Google Ventures Library](http://www.gv.com/library)
 
 
+## Generate dummy content
+
+* [loripsum](http://loripsum.net/) - A lorem ipsum generator that generates more than just plain text
+
+
 ## Blogs
 
 * [Nicolas Gallagher](http://nicolasgallagher.com/)
