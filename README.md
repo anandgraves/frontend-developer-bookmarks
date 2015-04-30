@@ -49,7 +49,7 @@
 * [microjs](http://microjs.com/) - micro-frameworks and micro-libraries
 * [is.js](https://github.com/arasatasaygin/is.js) - micro check library
 * [fastclick](https://github.com/ftlabs/fastclick) - polyfill to remove click delays on browsers with touch UIs
-* [Gremlins.js](https://github.com/marmelab/gremlins.js) - monkey testing library for web apps and node.js
+* [Gremlins.js](https://github.com/marmelab/gremlins.js) - monkey testing library for web apps and node.js. Use the [Gremlins.js bookmarklet](https://rawgit.com/marmelab/gremlins.js/master/bookmarklet.html) for 1-click testing
 * [Chosen](http://harvesthq.github.io/chosen/) - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
 
 
@@ -116,6 +116,14 @@
 * SublimeLinter-contrib-scss-lint
 * Sass
 * HTML-CSS-JS Prettify
+
+
+## Browsers
+
+* [Browser stats](http://gs.statcounter.com/)
+* [Chromium Dashboard](https://www.chromestatus.com/features)
+* [Microsoft IE Status](https://status.modern.ie/)
+* [Chrome Devtools tips](http://devtoolstips.com/)
 
 
 ## Chrome Extensions
