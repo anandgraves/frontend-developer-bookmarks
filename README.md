@@ -14,6 +14,7 @@
 
 ## Courses
 
+* [Nodeschool](http://nodeschool.io/) - learn javascript, node, es6, debugging, testing and more
 * [CS50 lectures](https://cs50.harvard.edu/lectures/0/w)
 
 
