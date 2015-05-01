@@ -12,6 +12,11 @@
 * [No more JS frameworks](http://bitworking.org/news/2014/05/zero_framework_manifesto)
 
 
+## Web Components
+
+* [Web Components at Google I/O](https://www.youtube.com/watch?v=fqULJBBEVQE&feature=youtu.be) - excellent introduction to web components and their capabilities
+
+
 ## Courses
 
 * [Nodeschool](http://nodeschool.io/) - learn javascript, node, es6, debugging, testing and more
