@@ -60,6 +60,7 @@
 ## JavaScript Libraries
 
 * [microjs](http://microjs.com/) - micro-frameworks and micro-libraries
+* [Knockout](http://knockoutjs.com/)
 * [hashids](http://hashids.org/) - generate short unique ids from integers
 * [is.js](https://github.com/arasatasaygin/is.js) - micro check library
 * [fastclick](https://github.com/ftlabs/fastclick) - polyfill to remove click delays on browsers with touch UIs
