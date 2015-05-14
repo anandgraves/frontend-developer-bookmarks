@@ -42,10 +42,13 @@
 * [Reasonable Standard for CSS Stylesheet Structure](https://github.com/rstacruz/rscss)
 * [css {guide: lines;}](http://cssguidelin.es/)
 * [Sass Guidelines](http://sass-guidelin.es/)
+* [Primer](http://primercss.io/) - CSS toolkit and guidelines that power GitHub
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
 * [Specificity Calculator](http://specificity.keegan.st/)
 * [csscss](http://zmoazeni.github.io/csscss/) | [gulp-csscss](https://github.com/morishitter/gulp-csscss)
 * [Susy toolkit](http://susy.oddbird.net/) - extremely versatile grid toolkit
+* [Pure CSS loading animations](http://connoratherton.com/loaders)
+* [How to center in CSS](http://howtocenterincss.com/)
 
 
 ## JavaScript
