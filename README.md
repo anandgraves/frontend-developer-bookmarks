@@ -42,7 +42,7 @@
 * [Reasonable Standard for CSS Stylesheet Structure](https://github.com/rstacruz/rscss)
 * [css {guide: lines;}](http://cssguidelin.es/)
 * [Sass Guidelines](http://sass-guidelin.es/)
-* [Primer](http://primercss.io/) - CSS toolkit and guidelines that power GitHub
+* [Primer](http://primercss.io/) - css toolkit and guidelines that power GitHub
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
 * [Specificity Calculator](http://specificity.keegan.st/)
 * [csscss](http://zmoazeni.github.io/csscss/) | [gulp-csscss](https://github.com/morishitter/gulp-csscss)
@@ -76,6 +76,11 @@
 * [CodePen](http://codepen.io/)
 * [JS Bin](http://jsbin.com/)
 * [repl.it](http://repl.it/) - terminal emulator and code editor for multiple languages
+
+
+## Git
+
+* [first aid git](http://firstaidgit.io/) - searchable collection of the most frequently asked Git questions
 
 
 ## NPM
