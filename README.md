@@ -59,6 +59,7 @@
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [HTML5 Please](http://html5please.com/) - search for polyfills
 * [JSON Visualization](http://chris.photobooks.com/json/)
+* [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 
 
 ## JavaScript Libraries
