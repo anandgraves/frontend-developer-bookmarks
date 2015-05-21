@@ -4,6 +4,7 @@
 ## General
 
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
+* [DevDocs](http://devdocs.io/) - css, dom, dom events, html, http, javascript, frameworks & libraries
 
 
 ## No Frameworks
@@ -22,6 +23,7 @@
 * [Nodeschool](http://nodeschool.io/) - learn javascript, node, es6, debugging, testing and more
 * [CS50 lectures](https://cs50.harvard.edu/lectures/0/w)
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - list of awesome university courses for learning computer science
+* [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 
 ## Build Cross Platform Apps
