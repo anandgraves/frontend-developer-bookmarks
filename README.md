@@ -91,6 +91,7 @@
 
 * [browserSync](http://www.browsersync.io/)
 * [Gulp](http://gulpjs.com/)
+* [Updating Dependencies in a package.json](http://alwaystwisted.com/articles/updating-dependencies-in-a-packagejson)
 * [gulp-ruby-sass](https://www.npmjs.com/package/gulp-ruby-sass)
 * [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
 * [UglifyJS](https://www.npmjs.com/package/uglify-js)
