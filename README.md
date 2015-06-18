@@ -224,6 +224,7 @@
 
 * [Spectacle](http://spectacleapp.com/) - osx window manager
 * [Awareness](http://iamfutureproof.com/tools/awareness/) - subtle awareness of time spent on the computer
+* [How a password changed my life](https://medium.com/@manicho/how-a-password-changed-my-life-7af5d5f28038)
 * [Evernote](https://evernote.com/)
 * [LastPass](https://lastpass.com/)
 * [F.lux](https://justgetflux.com/)
