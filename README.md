@@ -57,6 +57,7 @@
 ## JavaScript
 
 * [Superhero.js](http://superherojs.com/) - good selection of articles, videos and presentations
+* [Essential Javascript links])(https://github.com/ericelliott/essential-javascript-links)
 * [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
 * [JSbooks](http://jsbooks.revolunet.com/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
@@ -225,6 +226,7 @@
 * [Spectacle](http://spectacleapp.com/) - osx window manager
 * [Awareness](http://iamfutureproof.com/tools/awareness/) - subtle awareness of time spent on the computer
 * [How a password changed my life](https://medium.com/@manicho/how-a-password-changed-my-life-7af5d5f28038)
+* [Toggl](https://toggl.com/) - time tracker for desktop and mobile
 * [Evernote](https://evernote.com/)
 * [LastPass](https://lastpass.com/)
 * [F.lux](https://justgetflux.com/)
