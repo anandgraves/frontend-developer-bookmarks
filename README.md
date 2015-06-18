@@ -15,6 +15,7 @@
 
 ## Web Components
 
+* [Web Components and the future of CSS](https://philipwalton.github.io/talks/2014-11-24/) - slides from philip walton
 * [Web Components at Google I/O](https://www.youtube.com/watch?v=fqULJBBEVQE&feature=youtu.be) - excellent introduction to web components and their capabilities
 
 
