@@ -41,6 +41,7 @@
 
 ## CSS
 
+* Element queries: [Elementary](https://github.com/filamentgroup/elementary) | [CSS Element Queries Polyfill](https://github.com/marcj/css-element-queries) | [elementQuery](https://github.com/tysonmatanich/elementQuery) | [eqjs](https://github.com/snugug/eq.js)
 * [Reasonable Standard for CSS Stylesheet Structure](https://github.com/rstacruz/rscss)
 * [css {guide: lines;}](http://cssguidelin.es/)
 * [Sass Guidelines](http://sass-guidelin.es/)
