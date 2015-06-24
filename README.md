@@ -5,6 +5,8 @@
 
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 * [DevDocs](http://devdocs.io/) - css, dom, dom events, html, http, javascript, frameworks & libraries
+* [What browser are you using?](http://www.whatsmybrowser.org/) - info is available on a unique url
+* [Gigantic list of Frontend developer bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 
 ## No Frameworks
@@ -55,11 +57,16 @@
 * [How to center in CSS](http://howtocenterincss.com/)
 
 
+## JavaScript Excercises/Courses/Assesments
+
+* [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
+* [Nodeschool](http://nodeschool.io/) - learning essential skills for working with Node.js
+
+
 ## JavaScript
 
 * [Superhero.js](http://superherojs.com/) - good selection of articles, videos and presentations
 * [Essential Javascript links](https://github.com/ericelliott/essential-javascript-links)
-* [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
 * [JSbooks](http://jsbooks.revolunet.com/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [HTML5 Please](http://html5please.com/) - search for polyfills
@@ -147,6 +154,11 @@
 * SublimeLinter-contrib-scss-lint
 * Sass
 * HTML-CSS-JS Prettify
+
+
+## Security
+
+* [hackerone](https://hackerone.com/) - use a community of hackers to find vulnerabilities in your app
 
 
 ## Browsers
