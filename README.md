@@ -99,6 +99,7 @@
 
 ## NPM
 
+* [dependency-check](https://www.npmjs.com/package/dependency-check)
 * [browserSync](http://www.browsersync.io/)
 * [Gulp](http://gulpjs.com/)
 * [Updating Dependencies in a package.json](http://alwaystwisted.com/articles/updating-dependencies-in-a-packagejson)
@@ -159,6 +160,7 @@
 ## Security
 
 * [hackerone](https://hackerone.com/) - use a community of hackers to find vulnerabilities in your app
+* [Chrome Extensions Going Rogue](https://chrisa.wordpress.com/2014/08/25/chrome-extensions-going-rogue/)
 
 
 ## Browsers
