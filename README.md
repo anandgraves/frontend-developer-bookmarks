@@ -7,6 +7,7 @@
 * [DevDocs](http://devdocs.io/) - css, dom, dom events, html, http, javascript, frameworks & libraries
 * [What browser are you using?](http://www.whatsmybrowser.org/) - info is available on a unique url
 * [Gigantic list of Frontend developer bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [Libraries.io](https://libraries.io) - search in open source libraries
 
 
 ## No Frameworks
@@ -83,6 +84,11 @@
 * [fastclick](https://github.com/ftlabs/fastclick) - polyfill to remove click delays on browsers with touch UIs
 * [Gremlins.js](https://github.com/marmelab/gremlins.js) - monkey testing library for web apps and node.js. Use the [Gremlins.js bookmarklet](https://rawgit.com/marmelab/gremlins.js/master/bookmarklet.html) for 1-click testing
 * [Chosen](http://harvesthq.github.io/chosen/) - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
+
+
+## Regular Expressions
+
+* [RegExr](http://regexr.com/)- learn, build, & test regular expressions
 
 
 ## Code Playground
