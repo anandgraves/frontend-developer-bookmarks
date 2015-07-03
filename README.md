@@ -165,6 +165,10 @@
 
 ## Security
 
+* [How To Kill The Password: Don't Ask For One](http://readwrite.com/2015/07/01/medium-passwordless-system)
+* [Passwordless](https://passwordless.net/)
+* [ProntonMail](https://protonmail.ch/) - encrypted email
+* [friends](https://github.com/moose-team/friends) - secured P2P chat
 * [hackerone](https://hackerone.com/) - use a community of hackers to find vulnerabilities in your app
 * [Chrome Extensions Going Rogue](https://chrisa.wordpress.com/2014/08/25/chrome-extensions-going-rogue/)
 
