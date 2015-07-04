@@ -25,6 +25,7 @@
 ## Courses
 
 * [Nodeschool](http://nodeschool.io/) - learn javascript, node, es6, debugging, testing and more
+* [Front End Web Development Quiz](http://davidshariff.com/quiz/)
 * [CS50 lectures](https://cs50.harvard.edu/lectures/0/w)
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - list of awesome university courses for learning computer science
 * [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
