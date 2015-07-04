@@ -250,6 +250,7 @@
 ## Lifehacker
 
 * [Spectacle](http://spectacleapp.com/) - osx window manager
+* [Slack](https://slack.com) - easy messaging app for teams
 * [Awareness](http://iamfutureproof.com/tools/awareness/) - subtle awareness of time spent on the computer
 * [How a password changed my life](https://medium.com/@manicho/how-a-password-changed-my-life-7af5d5f28038)
 * [Toggl](https://toggl.com/) - time tracker for desktop and mobile
