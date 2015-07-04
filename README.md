@@ -87,6 +87,14 @@
 * [Chosen](http://harvesthq.github.io/chosen/) - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
 
 
+## Community
+
+Get help and help others through several channels.
+* [frontenddevelopers.org/](http://frontenddevelopers.org/) - A Slack power community
+* [Stackoverflow](http://stackoverflow.com/)
+* [freenode IRC](https://webchat.freenode.net/)
+
+
 ## Regular Expressions
 
 * [RegExr](http://regexr.com/)- learn, build, & test regular expressions
