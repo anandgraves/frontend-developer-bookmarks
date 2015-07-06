@@ -46,12 +46,14 @@
 
 ## CSS
 
+* [Vendor-prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview/)
 * Element queries: [Elementary](https://github.com/filamentgroup/elementary) | [CSS Element Queries Polyfill](https://github.com/marcj/css-element-queries) | [elementQuery](https://github.com/tysonmatanich/elementQuery) | [eqjs](https://github.com/snugug/eq.js)
 * [Reasonable Standard for CSS Stylesheet Structure](https://github.com/rstacruz/rscss)
 * [css {guide: lines;}](http://cssguidelin.es/)
 * [Sass Guidelines](http://sass-guidelin.es/)
 * [Primer](http://primercss.io/) - css toolkit and guidelines that power GitHub
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
+* [Style Guide Resources](http://styleguides.io/)
 * [Specificity Calculator](http://specificity.keegan.st/)
 * [csscss](http://zmoazeni.github.io/csscss/) | [gulp-csscss](https://github.com/morishitter/gulp-csscss)
 * [Susy toolkit](http://susy.oddbird.net/) - extremely versatile grid toolkit
