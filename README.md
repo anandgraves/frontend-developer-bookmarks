@@ -222,6 +222,7 @@ Get help and help others through several channels.
 
 ## UX
 
+* [UX Design Resources](http://uxdesign.cc/) - methods & deliverables, tools, links, books, inspiration
 * [User Onboarding](https://www.useronboard.com/onboarding-teardowns/) - see how popular web apps handle their signup experiences (Slack, Evernote, Instagram, Trello, Meetup, etc.)
 * [Hyper Island Toolbox](http://toolbox.hyperisland.com/) - a resource kit you can use to apply creative collaboration and unleash potential in your team or organization
 * [UX Project Checklist](http://uxchecklist.github.io/)
