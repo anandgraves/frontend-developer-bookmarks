@@ -68,6 +68,7 @@
 ## JavaScript
 
 * [Superhero.js](http://superherojs.com/) - good selection of articles, videos and presentations
+* [js.org](http://stats.js.org/) - most popular javascript libraries on github
 * [Essential Javascript links](https://github.com/ericelliott/essential-javascript-links)
 * [JSbooks](http://jsbooks.revolunet.com/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
