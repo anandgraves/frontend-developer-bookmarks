@@ -69,6 +69,7 @@
 
 ## JavaScript
 
+* [What the heck is the event loop anyway (video)](http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html)
 * [Superhero.js](http://superherojs.com/) - good selection of articles, videos and presentations
 * [js.org](http://stats.js.org/) - most popular javascript libraries on github
 * [Essential Javascript links](https://github.com/ericelliott/essential-javascript-links)
