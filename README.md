@@ -25,6 +25,7 @@
 ## Courses
 
 * [Nodeschool](http://nodeschool.io/) - learn javascript, node, es6, debugging, testing and more
+* [freeCodeCamp](http://freecodecamp.com/) - learn to code by building projects for nonprofits
 * [Front End Web Development Quiz](http://davidshariff.com/quiz/)
 * [CS50 lectures](https://cs50.harvard.edu/lectures/0/w)
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - list of awesome university courses for learning computer science
@@ -152,6 +153,9 @@ Get help and help others through several channels.
 
 ## Web Services
 
+* [surge.sh](https://surge.sh/) - static web publishing
+for front-end developers
+* [RawGit](http://rawgit.com/) - serves raw files directly from github with proper content-type headers
 * [runnable](http://runnable.com/) - run code from different stacks
 * [cdnjs.com](https://cdnjs.com/) - cdn for js, css, images, icon fonts, etc.
 * [Polyfill service](https://cdn.polyfill.io)
@@ -270,6 +274,7 @@ Get help and help others through several channels.
 
 ## Lifehacker
 
+* [Trello](https://trello.com/) - flexible, and visual way to organize anything with anyone
 * [Spectacle](http://spectacleapp.com/) - osx window manager
 * [Slack](https://slack.com) - easy messaging app for teams
 * [Awareness](http://iamfutureproof.com/tools/awareness/) - subtle awareness of time spent on the computer
