@@ -61,6 +61,18 @@
 * [How to center in CSS](http://howtocenterincss.com/)
 
 
+## Typography
+
+* [Unitless line-heights](http://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/)
+
+
+## Typography Tools
+
+* [Input](http://input.fontbureau.com/) - fonts for code
+* [Web Font Load](http://webfontload.com/) - install all google fonts with 1 terminal command
+* [Type Sample](http://www.typesample.com/) - identifying and sampling web fonts
+
+
 ## JavaScript Excercises/Courses/Assesments
 
 * [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
@@ -233,11 +245,6 @@ Get help and help others through several channels.
 * [50 User Experience Best Practices](http://userexperiencedesigns.com/assets/pdf/50-UX-Best-Practices.pdf) - pdf
 * [Google Ventures Library](http://www.gv.com/library)
 * [The User Is Drunk](http://theuserisdrunk.com/)
-
-
-## Fonts
-
-* [Web Font Load](http://webfontload.com/) - install all google fonts with 1 terminal command
 
 
 ## Generate dummy content
