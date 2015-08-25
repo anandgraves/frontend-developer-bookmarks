@@ -70,6 +70,8 @@
 
 ## Typography Tools
 
+* [IcoMoon](https://icomoon.io/app/#/select) - create SVG sprites, font icons
+* [Fontello](http://fontello.com/) - icon font generator
 * [Input](http://input.fontbureau.com/) - fonts for code
 * [Web Font Load](http://webfontload.com/) - install all google fonts with 1 terminal command
 * [Type Sample](http://www.typesample.com/) - identifying and sampling web fonts
