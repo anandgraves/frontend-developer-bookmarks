@@ -62,6 +62,10 @@
 * [Pure CSS loading animations](http://connoratherton.com/loaders)
 * [How to center in CSS](http://howtocenterincss.com/)
 
+### Flexbox
+
+* [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+
 
 ## Typography
 
