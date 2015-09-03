@@ -61,25 +61,20 @@
 * [Susy toolkit](http://susy.oddbird.net/) - extremely versatile grid toolkit
 * [Pure CSS loading animations](http://connoratherton.com/loaders)
 * [How to center in CSS](http://howtocenterincss.com/)
-
-### Flexbox
-
-* [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+* Flexbox
+  * [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 
 
 ## Typography
 
 * [Unitless line-heights](http://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/)
-
-
-## Typography Tools
-
-* [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) - get eot, ttf, svg, woff and woff2 files + css snippets
-* [IcoMoon](https://icomoon.io/app/#/select) - create svg sprites, font icons
-* [Fontello](http://fontello.com/) - icon font generator
-* [Input](http://input.fontbureau.com/) - fonts for code
-* [Web Font Load](http://webfontload.com/) - install all google fonts with 1 terminal command
-* [Type Sample](http://www.typesample.com/) - identifying and sampling web fonts
+* Typography Tools
+  * [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) - get eot, ttf, svg, woff and woff2 files + css snippets
+  * [IcoMoon](https://icomoon.io/app/#/select) - create svg sprites, font icons
+  * [Fontello](http://fontello.com/) - icon font generator
+  * [Input](http://input.fontbureau.com/) - fonts for code
+  * [Web Font Load](http://webfontload.com/) - install all google fonts with 1 terminal command
+  * [Type Sample](http://www.typesample.com/) - identifying and sampling web fonts  
 
 
 ## JavaScript Excercises/Courses/Assesments
