@@ -220,7 +220,7 @@ for front-end developers
 * [Postman](http://www.getpostman.com/) - REST Client (packaged app)
 * [Emmet Re:View](http://re-view.emmet.io/)
 * [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn/)
-* [Awesome Screenshot: Capture & Annotate](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 * [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom)
 * [Pesticide for Chrome](http://pesticide.io/)
 * [JunkFill](https://chrome.google.com/webstore/detail/junkfill/cajejbcjfkhgmfbapmhopccephhjedeb)
