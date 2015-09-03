@@ -38,6 +38,11 @@
 * [electron boilerplate](https://github.com/sindresorhus/electron-boilerplate)
 * [NativeScript](https://www.nativescript.org/) - build native mobile apps for ios, android and windows phone from a single code base with javascript and css
 
+## Responsive Design
+
+* [Intrinsic ratios](http://alistapart.com/article/creating-intrinsic-ratios-for-video)
+
+
 ## HTML
 
 * [Dive into HTML5](http://diveintohtml5.info/)
