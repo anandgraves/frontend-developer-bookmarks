@@ -281,8 +281,9 @@ Get help and help others through several channels.
 * [Smashing Magazine Newsletter](http://www.smashingmagazine.com/the-smashing-newsletter/)
 
 
-## Lifehacker
+## Lifehacking tools
 
+* [LICEcap](https://github.com/lepht/licecap) - screen capture to gif
 * [Trello](https://trello.com/) - flexible, and visual way to organize anything with anyone
 * [Spectacle](http://spectacleapp.com/) - osx window manager
 * [Slack](https://slack.com) - easy messaging app for teams
