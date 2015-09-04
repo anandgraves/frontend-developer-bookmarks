@@ -112,6 +112,20 @@
 * [Chosen](http://harvesthq.github.io/chosen/) - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
 
 
+## Web Services
+
+* [surge.sh](https://surge.sh/) - static web publishing
+for front-end developers
+* [srvdir](https://www.srvdir.net/) - make any directory a secure public https file server in one command
+* [RawGit](http://rawgit.com/) - serves raw files directly from github with proper content-type headers
+* [runnable](http://runnable.com/) - run code from different stacks
+* [cdnjs.com](https://cdnjs.com/) - cdn for js, css, images, icon fonts, etc.
+* [Polyfill service](https://cdn.polyfill.io)
+* [Cloudflare](https://www.cloudflare.com/)
+* [Slack](https://slack.com/) - (free) platform for team communication
+* [Trello](https://trello.com) -visually organize your projects
+
+
 ## Community
 
 Get help and help others through several channels.
@@ -156,20 +170,6 @@ Get help and help others through several channels.
 * [PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)
 * [WebPageTest](http://www.webpagetest.org/)
 * [Yellow Lab Tools](http://yellowlab.tools/)
-
-
-## Web Services
-
-* [surge.sh](https://surge.sh/) - static web publishing
-for front-end developers
-* [srvdir](https://www.srvdir.net/) - make any directory a secure public https file server in one command
-* [RawGit](http://rawgit.com/) - serves raw files directly from github with proper content-type headers
-* [runnable](http://runnable.com/) - run code from different stacks
-* [cdnjs.com](https://cdnjs.com/) - cdn for js, css, images, icon fonts, etc.
-* [Polyfill service](https://cdn.polyfill.io)
-* [Cloudflare](https://www.cloudflare.com/)
-* [Slack](https://slack.com/) - (free) platform for team communication
-* [Trello](https://trello.com) -visually organize your projects
 
 
 ## Terminal
