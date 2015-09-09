@@ -123,8 +123,6 @@ for front-end developers
 * [cdnjs.com](https://cdnjs.com/) - cdn for js, css, images, icon fonts, etc.
 * [Polyfill service](https://cdn.polyfill.io)
 * [Cloudflare](https://www.cloudflare.com/)
-* [Slack](https://slack.com/) - (free) platform for team communication
-* [Trello](https://trello.com) -visually organize your projects
 
 
 ## Community
@@ -283,6 +281,7 @@ Get help and help others through several channels.
 
 ## Lifehacking tools
 
+* [Paparazzi!](https://derailer.org/paparazzi/) - take screenshots of web pages using webkit
 * [LICEcap](https://github.com/lepht/licecap) - screen capture to gif
 * [Trello](https://trello.com/) - flexible, and visual way to organize anything with anyone
 * [Spectacle](http://spectacleapp.com/) - osx window manager
