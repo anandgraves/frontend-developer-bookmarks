@@ -182,9 +182,10 @@ Get help and help others through several channels.
 
 ## Editors
 
-* [WebStorm](https://www.jetbrains.com/webstorm/)
+* [Mou](http://25.io/mou/) - markdown editor for developers
+* [Atom](https://atom.io/)
 * [Sublime Text](http://www.sublimetext.com/)
-* [Prose](http://prose.io) - gitHub content editor
+* [Prose](http://prose.io) - github content editor
 
 
 ## Sublime Text 3 Plugins
