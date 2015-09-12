@@ -8,6 +8,7 @@
 * [What browser are you using?](http://www.whatsmybrowser.org/) - info is available on a unique url
 * [Gigantic list of Frontend developer bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [Libraries.io](https://libraries.io) - search in open source libraries
+* [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
 
 ## No Frameworks
