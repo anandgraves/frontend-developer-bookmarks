@@ -53,6 +53,7 @@
 
 ## CSS
 
+* [CSS for Software Engineers for CSS Developers](https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers)
 * [Measuring and sizing UIs, 2011-style (and beyond)](http://csswizardry.com/2011/12/measuring-and-sizing-uis-2011-style/)
 * [Vendor-prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview/)
 * Element queries: [Elementary](https://github.com/filamentgroup/elementary) | [CSS Element Queries Polyfill](https://github.com/marcj/css-element-queries) | [elementQuery](https://github.com/tysonmatanich/elementQuery) | [eqjs](https://github.com/snugug/eq.js)
