@@ -91,6 +91,7 @@
 
 ## JavaScript
 
+* [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures) - an extensive explanation of closures with visuals
 * [What the heck is the event loop anyway (video)](http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html)
 * [Superhero.js](http://superherojs.com/) - good selection of articles, videos and presentations
 * [js.org](http://stats.js.org/) - most popular javascript libraries on github
