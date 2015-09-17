@@ -195,7 +195,7 @@ Get help and help others through several channels.
 ## Sublime Text 3 Plugins
 
 * [Package Control](https://packagecontrol.io/installation)
-* [Emmet](http://docs.emmet.io/)
+* [Emmet](http://docs.emmet.io/) - [cheat sheet](http://docs.emmet.io/cheat-sheet/)
 * [SublimeLinter](http://www.sublimelinter.com/en/latest/index.html)
 * SublimeLinter-html-tidy - [install tidy](http://techblog.willshouse.com/2013/10/21/homebrew-tidy-html5/)
 * [SublimeLinter-jshint](https://coderwall.com/p/5pw9za/how-to-install-good-ol-sublime-linter-in-sublime-text-3)
