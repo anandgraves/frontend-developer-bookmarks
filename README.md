@@ -221,6 +221,7 @@ Get help and help others through several channels.
 * [Chromium Dashboard](https://www.chromestatus.com/features)
 * [Microsoft IE Status](https://status.modern.ie/)
 * [Chrome Devtools tips](http://devtoolstips.com/)
+* [The Android Browser](http://slides.com/html5test/the-android-browser/)
 
 
 ## Chrome Extensions
