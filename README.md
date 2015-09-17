@@ -137,6 +137,11 @@ Get help and help others through several channels.
 * [freenode IRC](https://webchat.freenode.net/)
 
 
+## Visual Design
+
+* [10 commandments of color theory](http://www.youthedesigner.com/wp-content/uploads/2014/06/the-10-commandments-of-color-theory_537dc47b1c394.jpg)
+
+
 ## Regular Expressions
 
 * [RegExr](http://regexr.com/)- learn, build, & test regular expressions
