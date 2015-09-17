@@ -56,6 +56,7 @@
 * [CSS for Software Engineers for CSS Developers](https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers)
 * [Write CSS in specificity order](https://www.youtube.com/watch?v=1OKZOV-iLj4&hd=1) - harry roberts talk on managing css projects with itcss
 * [Measuring and sizing UIs, 2011-style (and beyond)](http://csswizardry.com/2011/12/measuring-and-sizing-uis-2011-style/)
+* [inuitcss](https://github.com/inuitcss) - sass-based, bem, oocss framework designed with scalability and performance in mind
 * [Vendor-prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview/)
 * Element queries: [Elementary](https://github.com/filamentgroup/elementary) | [CSS Element Queries Polyfill](https://github.com/marcj/css-element-queries) | [elementQuery](https://github.com/tysonmatanich/elementQuery) | [eqjs](https://github.com/snugug/eq.js)
 * [Reasonable Standard for CSS Stylesheet Structure](https://github.com/rstacruz/rscss)
