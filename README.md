@@ -9,6 +9,7 @@
 * [Gigantic list of Frontend developer bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [Libraries.io](https://libraries.io) - search in open source libraries
 * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
+* [Designing with Progressive Enhancement](http://sixtwothree.org/posts/designing-with-progressive-enhancement)
 
 
 ## No Frameworks
