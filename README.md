@@ -53,26 +53,32 @@
 
 
 ## CSS
-* Articles/Presentations/Video
+Articles/Presentations/Video
   * [CSS for Software Engineers for CSS Developers](https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers) - applying traditional software engineering principles directly (or indirectly) to CSS.
   * [Write CSS in specificity order](https://www.youtube.com/watch?v=1OKZOV-iLj4&hd=1) - harry roberts talk on managing css projects with itcss
   * [Measuring and sizing UIs, 2011-style (and beyond)](http://csswizardry.com/2011/12/measuring-and-sizing-uis-2011-style/)
-  * Flexbox
-    * [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
-* Tools/Frameworks
+
+Flexbox
+  * [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+
+Tools/Frameworks
   * [inuitcss](https://github.com/inuitcss) - sass-based, bem, oocss framework designed with scalability and performance in mind
   * [Susy toolkit](http://susy.oddbird.net/) - extremely versatile grid toolkit
   * [Reasonable Standard for CSS Stylesheet Structure](https://github.com/rstacruz/rscss)
   * [Specificity Calculator](http://specificity.keegan.st/)
   * [csscss](http://zmoazeni.github.io/csscss/) | [gulp-csscss](https://github.com/morishitter/gulp-csscss)
-* Guidelines
+
+Guidelines
   * [css {guide: lines;}](http://cssguidelin.es/)
   * [Sass Guidelines](http://sass-guidelin.es/)
-  * [Primer](http://primercss.io/) - css toolkit and guidelines that power GitHub
+  * [Primer](http://primercss.io/) - css toolkit and guidelines that power 
+
+GitHub
 * Resources
   * [CSSWizardry](http://csswizardry.com/)
   * [CSS-Tricks](https://css-tricks.com/)
-* Miscellaneous
+
+Miscellaneous
   * [Vendor-prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview/)
   * [CSS Reference](http://tympanus.net/codrops/css_reference/)
   * [Style Guide Resources](http://styleguides.io/)
@@ -83,7 +89,8 @@
 ## Typography
 
 * [Unitless line-heights](http://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/)
-* Typography Tools
+
+Typography Tools
   * [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) - get eot, ttf, svg, woff and woff2 files + css snippets
   * [IcoMoon](https://icomoon.io/app/#/select) - create svg sprites, font icons
   * [Fontello](http://fontello.com/) - icon font generator
