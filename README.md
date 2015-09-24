@@ -300,6 +300,7 @@ Get help and help others through several channels.
 
 ## Newsletters
 
+* [GIANT ROBOTS](https://robots.thoughtbot.com/)
 * [HTML5 Weekly](http://html5weekly.com/)
 * [CSS Weekly](http://css-weekly.com/)
 * [Responsive Design Weekly](http://responsivedesignweekly.com/archive)
