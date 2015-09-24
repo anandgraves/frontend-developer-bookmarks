@@ -10,6 +10,7 @@
 * [Libraries.io](https://libraries.io) - search in open source libraries
 * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 * [Designing with Progressive Enhancement](http://sixtwothree.org/posts/designing-with-progressive-enhancement)
+* [thoughtbot Playbook](https://thoughtbot-playbook.s3.amazonaws.com/playbook/playbook.pdf) - the who, what, why, where, when, and how of modern application development (pdf)
 
 
 ## No Frameworks
