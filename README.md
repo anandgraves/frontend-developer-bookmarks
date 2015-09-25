@@ -69,6 +69,7 @@ Tools/Frameworks
   * [Reasonable Standard for CSS Stylesheet Structure](https://github.com/rstacruz/rscss)
   * [Specificity Calculator](http://specificity.keegan.st/)
   * [csscss](http://zmoazeni.github.io/csscss/) | [gulp-csscss](https://github.com/morishitter/gulp-csscss)
+  * [Hologram](http://trulia.github.io/hologram/) - living styleguides with a user friendly setup
 
 Guidelines
   * [css {guide: lines;}](http://cssguidelin.es/)
