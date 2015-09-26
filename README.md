@@ -324,3 +324,8 @@ Get help and help others through several channels.
 * [Evernote](https://evernote.com/)
 * [LastPass](https://lastpass.com/)
 * [F.lux](https://justgetflux.com/)
+
+
+## Entertainment
+
+* [Wumo](http://wumo.com) - comics
