@@ -111,6 +111,7 @@ Typography Tools
 ## JavaScript
 
 * [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures) - an extensive explanation of closures with visuals
+* [DOM Enlightenment](http://domenlightenment.com/) - exploring the relationship between javaScript and the modern html dom
 * [What the heck is the event loop anyway (video)](http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html)
 * [Superhero.js](http://superherojs.com/) - good selection of articles, videos and presentations
 * [js.org](http://stats.js.org/) - most popular javascript libraries on github
@@ -282,7 +283,7 @@ Get help and help others through several channels.
 * [A Good User Interface](https://www.goodui.org/)
 * [UX Design Resources](http://uxdesign.cc/) - methods & deliverables, tools, links, books, inspiration
 * [The Top and Bottom](http://www.lukew.com/ff/entry.asp?878) - adding value to both the big picture and the details of a design problem
-* [User Onboarding](https://www.useronboard.com/onboarding-teardowns/) - see how popular web apps handle their signup experiences (Slack, Evernote, Instagram, Trello, Meetup, etc.)
+* [User Onboarding](https://www.useronboard.com/onboarding-teardowns/) - see how popular web apps handle their signup experiences (slack, evernote, instagram, trello, meetup, etc.)
 * [Hyper Island Toolbox](http://toolbox.hyperisland.com/) - a resource kit you can use to apply creative collaboration and unleash potential in your team or organization
 * [UX Project Checklist](http://uxchecklist.github.io/)
 * [UX Myths](http://uxmyths.com/)
@@ -293,7 +294,7 @@ Get help and help others through several channels.
 
 ## Generate dummy content
 
-* [loripsum](http://loripsum.net/) - A lorem ipsum generator that generates more than just plain text
+* [loripsum](http://loripsum.net/) - a lorem ipsum generator that generates more than just plain text
 
 
 ## Blogs
