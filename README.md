@@ -70,6 +70,7 @@ Tools/Frameworks
   * [Specificity Calculator](http://specificity.keegan.st/)
   * [csscss](http://zmoazeni.github.io/csscss/) | [gulp-csscss](https://github.com/morishitter/gulp-csscss)
   * [Hologram](http://trulia.github.io/hologram/) - living styleguides with a user friendly setup
+  * [Parker](https://github.com/katiefenn/parker) - a stylesheet analysis tool that runs metrics on your stylesheets and will report on their complexity
 
 Guidelines
   * [css {guide: lines;}](http://cssguidelin.es/)
