@@ -213,6 +213,7 @@ Get help and help others through several channels.
 
 ## Editors
 
+* [MacDown](http://macdown.uranusjr.com/) - open source markdown editor for osx influenced by Mou
 * [Mou](http://25.io/mou/) - markdown editor for developers
 * [Atom](https://atom.io/)
 * [Sublime Text](http://www.sublimetext.com/)
