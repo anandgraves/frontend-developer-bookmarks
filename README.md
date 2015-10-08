@@ -297,9 +297,10 @@ Get help and help others through several channels.
 * [The User Is Drunk](http://theuserisdrunk.com/)
 
 
-## Generate dummy content
+## Dummy content
 
 * [loripsum](http://loripsum.net/) - a lorem ipsum generator that generates more than just plain text
+* [LibreStock](http://librestock.com/) - search through thousands of high quality do-what-ever-you-want stock photo
 
 
 ## Blogs
