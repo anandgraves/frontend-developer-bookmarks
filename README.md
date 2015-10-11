@@ -46,6 +46,7 @@
 
 * [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
 * [Intrinsic ratios](http://alistapart.com/article/creating-intrinsic-ratios-for-video)
+* [Viewport Sizes](http://viewportsizes.com/)
 
 
 ## HTML
