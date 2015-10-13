@@ -44,6 +44,7 @@
 
 ## Responsive Design
 
+* [Responsive Images 101](http://blog.cloudfour.com/responsive-images-101-definitions/) - 10 articles about responsive images
 * [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
 * [Intrinsic ratios](http://alistapart.com/article/creating-intrinsic-ratios-for-video)
 * [Viewport Sizes](http://viewportsizes.com/)
