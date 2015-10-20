@@ -116,6 +116,7 @@ Typography Tools
 
 ## JavaScript
 
+* [From jQuery to vanilla JS](http://codeblog.cz/vanilla/) - examples are written with the upcoming dom4 standard in mind. A polyfill is available.
 * [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures) - an extensive explanation of closures with visuals
 * [DOM Enlightenment](http://domenlightenment.com/) - exploring the relationship between javaScript and the modern html dom
 * [What the heck is the event loop anyway (video)](http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html)
