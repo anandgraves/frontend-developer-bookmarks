@@ -5,6 +5,7 @@
 
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 * [DevDocs](http://devdocs.io/) - css, dom, dom events, html, http, javascript, frameworks & libraries
+* [DevDogs](https://github.com/ragingwind/devdogs) - unofficial devdocs.io osx app
 * [What browser are you using?](http://www.whatsmybrowser.org/) - info is available on a unique url
 * [Gigantic list of Frontend developer bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [Libraries.io](https://libraries.io) - search in open source libraries
