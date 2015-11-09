@@ -13,6 +13,7 @@
 * [Designing with Progressive Enhancement](http://sixtwothree.org/posts/designing-with-progressive-enhancement)
 * [thoughtbot Playbook](https://thoughtbot-playbook.s3.amazonaws.com/playbook/playbook.pdf) - the who, what, why, where, when, and how of modern application development (pdf)
 * [U.S. Digital Services Playbook](https://playbook.cio.gov/)
+* [Site scan](https://dev.windows.com/en-us/microsoft-edge/tools/staticscan/) - run a quick code scan on any URL to check for out-of-date libraries, layout issues, and accessibility
 
 
 ## No Frameworks
@@ -327,7 +328,7 @@ Get help and help others through several channels.
 
 ## Lifehacking tools
 
-* [Paparazzi!](https://derailer.org/paparazzi/) - take screenshots of web pages using webkit
+* [Paparazzi!](https://derailer.org/paparazzi/) - take screenshots of web pages using webkit (is unfortunately offline - searching for an alternative...)
 * [LICEcap](https://github.com/lepht/licecap) - screen capture to gif
 * [Trello](https://trello.com/) - flexible, and visual way to organize anything with anyone
 * [Spectacle](http://spectacleapp.com/) - osx window manager
