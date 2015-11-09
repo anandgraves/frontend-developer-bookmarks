@@ -3,6 +3,7 @@
 
 ## General
 
+* [Front-end Handbook](http://www.frontendhandbook.com/)
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 * [DevDocs](http://devdocs.io/) - css, dom, dom events, html, http, javascript, frameworks & libraries
 * [DevDogs](https://github.com/ragingwind/devdogs) - unofficial devdocs.io osx app
@@ -135,8 +136,9 @@ Typography Tools
 
 ## JavaScript Libraries
 
+* [moment](https://github.com/moment/moment/) - parse, validate, manipulate, and display dates in javascript
+* [Papa Parse](http://papaparse.com/) - powerful in-browser CSV parser
 * [microjs](http://microjs.com/) - micro-frameworks and micro-libraries
-* [Knockout](http://knockoutjs.com/)
 * [hashids](http://hashids.org/) - generate short unique ids from integers
 * [is.js](https://github.com/arasatasaygin/is.js) - micro check library
 * [fastclick](https://github.com/ftlabs/fastclick) - polyfill to remove click delays on browsers with touch UIs
