@@ -57,6 +57,7 @@
 * [Dive into HTML5](http://diveintohtml5.info/)
 * [Input Type Sandbox](http://inputtypes.com/) - test onscreen keyboards, input types, patterns and attributes
 * [HTML Inspector](https://github.com/philipwalton/html-inspector)
+* [Unicode Character Table](http://unicode-table.com/en/)
 
 
 ## CSS
@@ -218,10 +219,15 @@ Get help and help others through several channels.
 * [Launch an OS X Terminal Window from the Finder](http://lifehacker.com/launch-an-os-x-terminal-window-from-a-specific-folder-1466745514)
 
 
-## Editors
+## Markdown
 
+* [Why use Markdown](http://michaelhyatt.com/raw.txt)
 * [MacDown](http://macdown.uranusjr.com/) - open source markdown editor for osx influenced by Mou
 * [Mou](http://25.io/mou/) - markdown editor for developers
+
+
+## Editors
+
 * [Atom](https://atom.io/)
 * [Sublime Text](http://www.sublimetext.com/)
 * [Prose](http://prose.io) - github content editor
