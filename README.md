@@ -101,6 +101,7 @@ Miscellaneous
 
 ## Typography
 
+* [Google Web Font inspiration in HTML & CSS](http://tobiasahlin.com/typesource/)
 * [Unitless line-heights](http://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/)
 
 Typography Tools
