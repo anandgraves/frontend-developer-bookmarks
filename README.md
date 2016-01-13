@@ -3,6 +3,7 @@
 
 ## General
 
+* [The Fallacy of Keeping Up](https://timkadlec.com/2015/09/the-fallacy-of-keeping-up/)
 * [Front-end Handbook](http://www.frontendhandbook.com/)
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 * [DevDocs](http://devdocs.io/) - css, dom, dom events, html, http, javascript, frameworks & libraries
