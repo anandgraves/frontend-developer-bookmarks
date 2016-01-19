@@ -217,7 +217,7 @@ Get help and help others through several channels.
 
 ## Terminal
 
-* [trash](https://github.com/sindresorhus/trash) - safer alternative to `rm` by moving files and directories to the trash
+* [trash](https://github.com/sindresorhus/trash) - safer alternative to `rm` by moving files and directories to the trash. Use [osx-trash](https://github.com/sindresorhus/osx-trash) on OSX.
 * [iTerm2](http://iterm2.com/) - replacement for Terminal
 * [ranger](https://github.com/hut/ranger) - text-based file manager which works like the column view in OS X’s Finder
 * [z](https://github.com/rupa/z) - cd into most used directories
