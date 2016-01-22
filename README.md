@@ -3,6 +3,7 @@
 
 ## General
 
+* [JavaScript Guiding Principles](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.fdgg9w4td)
 * [The Fallacy of Keeping Up](https://timkadlec.com/2015/09/the-fallacy-of-keeping-up/)
 * [Front-end Handbook](http://www.frontendhandbook.com/)
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
