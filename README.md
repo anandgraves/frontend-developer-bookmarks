@@ -357,4 +357,7 @@ Get help and help others through several channels.
 
 ## Entertainment
 
-* [Wumo](http://wumo.com) - comics
+* [Wumo](http://wumo.com) - comic
+* [Commitstrip (comic)](http://www.commitstrip.com/en/) - comic
+* [Fowl Language](http://www.fowllanguagecomics.com/) - comic
+* [Glasbergen](http://www.glasbergen.com/) - comic
