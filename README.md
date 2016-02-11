@@ -20,6 +20,42 @@
 * [Site scan](https://dev.windows.com/en-us/microsoft-edge/tools/staticscan/) - run a quick code scan on any URL to check for out-of-date libraries, layout issues, and accessibility
 
 
+## JavaScript Excercises/Courses/Assesments
+
+* [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
+* [Nodeschool](http://nodeschool.io/) - learning essential skills for working with Node.js
+
+
+## JavaScript
+
+* [From jQuery to vanilla JS](http://codeblog.cz/vanilla/) - examples are written with the upcoming dom4 standard in mind. A polyfill is available.
+* [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures) - an extensive explanation of closures with visuals
+* [DOM Enlightenment](http://domenlightenment.com/) - exploring the relationship between javaScript and the modern html dom
+* [null, undefined, and undeclared](http://lucybain.com/blog/2014/null-undefined-undeclared/)
+* [What the heck is the event loop anyway (video)](http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html)
+* [Superhero.js](http://superherojs.com/) - good selection of articles, videos and presentations
+* [js.org](http://stats.js.org/) - most popular javascript libraries on github
+* [Essential Javascript links](https://github.com/ericelliott/essential-javascript-links)
+* [JSbooks](http://jsbooks.revolunet.com/)
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [HTML5 Please](http://html5please.com/) - search for polyfills
+* [JSON Visualization](http://chris.photobooks.com/json/)
+* [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+
+
+## JavaScript Libraries
+
+* [moment](https://github.com/moment/moment/) - parse, validate, manipulate, and display dates in javascript
+* [Papa Parse](http://papaparse.com/) - powerful in-browser CSV parser
+* [microjs](http://microjs.com/) - micro-frameworks and micro-libraries
+* [hashids](http://hashids.org/) - generate short unique ids from integers
+* [is.js](https://github.com/arasatasaygin/is.js) - micro check library
+* [fastclick](https://github.com/ftlabs/fastclick) - polyfill to remove click delays on browsers with touch UIs
+* [Gremlins.js](https://github.com/marmelab/gremlins.js) - monkey testing library for web apps and node.js. Use the [Gremlins.js bookmarklet](https://rawgit.com/marmelab/gremlins.js/master/bookmarklet.html) for 1-click testing
+* [Chosen](http://harvesthq.github.io/chosen/) - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
+
+
+
 ## No Frameworks
 
 * [Do Not Learn Frameworks. Learn the Architecture](http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture)
@@ -116,40 +152,6 @@ Typography Tools
   * [Input](http://input.fontbureau.com/) - fonts for code
   * [Web Font Load](http://webfontload.com/) - install all google fonts with 1 terminal command
   * [Type Sample](http://www.typesample.com/) - identifying and sampling web fonts  
-
-
-## JavaScript Excercises/Courses/Assesments
-
-* [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
-* [Nodeschool](http://nodeschool.io/) - learning essential skills for working with Node.js
-
-
-## JavaScript
-
-* [From jQuery to vanilla JS](http://codeblog.cz/vanilla/) - examples are written with the upcoming dom4 standard in mind. A polyfill is available.
-* [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures) - an extensive explanation of closures with visuals
-* [DOM Enlightenment](http://domenlightenment.com/) - exploring the relationship between javaScript and the modern html dom
-* [What the heck is the event loop anyway (video)](http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html)
-* [Superhero.js](http://superherojs.com/) - good selection of articles, videos and presentations
-* [js.org](http://stats.js.org/) - most popular javascript libraries on github
-* [Essential Javascript links](https://github.com/ericelliott/essential-javascript-links)
-* [JSbooks](http://jsbooks.revolunet.com/)
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-* [HTML5 Please](http://html5please.com/) - search for polyfills
-* [JSON Visualization](http://chris.photobooks.com/json/)
-* [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
-
-
-## JavaScript Libraries
-
-* [moment](https://github.com/moment/moment/) - parse, validate, manipulate, and display dates in javascript
-* [Papa Parse](http://papaparse.com/) - powerful in-browser CSV parser
-* [microjs](http://microjs.com/) - micro-frameworks and micro-libraries
-* [hashids](http://hashids.org/) - generate short unique ids from integers
-* [is.js](https://github.com/arasatasaygin/is.js) - micro check library
-* [fastclick](https://github.com/ftlabs/fastclick) - polyfill to remove click delays on browsers with touch UIs
-* [Gremlins.js](https://github.com/marmelab/gremlins.js) - monkey testing library for web apps and node.js. Use the [Gremlins.js bookmarklet](https://rawgit.com/marmelab/gremlins.js/master/bookmarklet.html) for 1-click testing
-* [Chosen](http://harvesthq.github.io/chosen/) - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
 
 
 ## Web Services
