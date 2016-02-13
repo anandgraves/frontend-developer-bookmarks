@@ -28,6 +28,7 @@
 
 ## JavaScript
 
+* [ECMAScript 5 Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
 * [From jQuery to vanilla JS](http://codeblog.cz/vanilla/) - examples are written with the upcoming dom4 standard in mind. A polyfill is available.
 * [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures) - an extensive explanation of closures with visuals
 * [DOM Enlightenment](http://domenlightenment.com/) - exploring the relationship between javaScript and the modern html dom
