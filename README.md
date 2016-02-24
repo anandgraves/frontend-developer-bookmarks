@@ -46,6 +46,7 @@
 
 ## JavaScript Libraries
 
+* [fetch](https://github.com/github/fetch) - polyfill for making xhr requests using promises
 * [moment](https://github.com/moment/moment/) - parse, validate, manipulate, and display dates in javascript
 * [Papa Parse](http://papaparse.com/) - powerful in-browser CSV parser
 * [microjs](http://microjs.com/) - micro-frameworks and micro-libraries
