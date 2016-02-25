@@ -159,7 +159,7 @@ for front-end developers
 * [RawGit](http://rawgit.com/) - serves raw files directly from github with proper content-type headers
 * [runnable](http://runnable.com/) - run code from different stacks
 * [cdnjs.com](https://cdnjs.com/) - cdn for js, css, images, icon fonts, etc.
-* [Polyfill service](https://cdn.polyfill.io)
+* [Polyfill Service](https://cdn.polyfill.io) - [An easier way of using polyfills](https://hacks.mozilla.org/2014/11/an-easier-way-of-using-polyfills/)
 * [Cloudflare](https://www.cloudflare.com/)
 
 
