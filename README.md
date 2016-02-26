@@ -8,6 +8,7 @@
 * [Front-end Handbook](http://www.frontendhandbook.com/)
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 * [W3C Web Design & Application](https://www.w3.org/standards/webdesign/) - specifications for the core web technologies
+* [W3C Web APIs](https://www.w3.org/standards/webdesign/script) - overview of all the web api specs
 * [DevDocs](http://devdocs.io/) - css, dom, dom events, html, http, javascript, frameworks & libraries
 * [DevDogs](https://github.com/ragingwind/devdogs) - unofficial devdocs.io osx app
 * [What browser are you using?](http://www.whatsmybrowser.org/) - info is available on a unique url
@@ -148,7 +149,13 @@ Typography Tools
   * [Fontello](http://fontello.com/) - icon font generator
   * [Input](http://input.fontbureau.com/) - fonts for code
   * [Web Font Load](http://webfontload.com/) - install all google fonts with 1 terminal command
-  * [Type Sample](http://www.typesample.com/) - identifying and sampling web fonts  
+  * [Type Sample](http://www.typesample.com/) - identifying and sampling web fonts
+
+
+## WordPress
+
+* [Sage](https://roots.io/sage/) - wordpress starter theme
+* [Using Sage/Roots 8.0.0](https://www.youtube.com/watch?v=F6U4GcCRFp0) - presentation (youtube)
 
 
 ## Web Services
