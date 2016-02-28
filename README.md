@@ -58,7 +58,6 @@
 * [Chosen](http://harvesthq.github.io/chosen/) - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
 
 
-
 ## No Frameworks
 
 * [Do Not Learn Frameworks. Learn the Architecture](http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture)
@@ -272,10 +271,10 @@ Get help and help others through several channels.
 
 ## Browsers
 
+* [DevTools - Google Developers](https://developers.google.com/web/updates/devtools/?hl=en	)
 * [Browser stats](http://gs.statcounter.com/)
 * [Chromium Dashboard](https://www.chromestatus.com/features)
 * [Microsoft IE Status](https://status.modern.ie/)
-* [Chrome Devtools tips](http://devtoolstips.com/)
 * [The Android Browser](http://slides.com/html5test/the-android-browser/)
 
 
