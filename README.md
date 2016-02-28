@@ -269,6 +269,15 @@ Get help and help others through several channels.
 * [Chrome Extensions Going Rogue](https://chrisa.wordpress.com/2014/08/25/chrome-extensions-going-rogue/)
 
 
+### Security Apps
+
+* [ProtonMail](https://protonmail.com/) - encrypted email service using double passwords based in switzerland
+* [Threema](https://threema.ch/en) - encrypted end-to-end mobile messenger
+* [Ricochet](https://ricochet.im/) - encrypted end-to-end chat on desktop using the tor network
+* [LastPass](https://lastpass.com/) - remote password manager
+* [Tresorit](https://tresorit.com/) - encrypted cloud storage
+
+
 ## Browsers
 
 * [DevTools - Google Developers](https://developers.google.com/web/updates/devtools/?hl=en	)
@@ -356,7 +365,6 @@ Get help and help others through several channels.
 * [How a password changed my life](https://medium.com/@manicho/how-a-password-changed-my-life-7af5d5f28038)
 * [Toggl](https://toggl.com/) - time tracker for desktop and mobile
 * [Evernote](https://evernote.com/)
-* [LastPass](https://lastpass.com/)
 * [F.lux](https://justgetflux.com/)
 
 
