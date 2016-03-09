@@ -370,6 +370,11 @@ Get help and help others through several channels.
 * [F.lux](https://justgetflux.com/)
 
 
+## Miscellaneous
+
+* [How to Design a Better Pitch Deck](http://themacro.com/articles/2015/11/how-to-design-a-better-pitch-deck/)
+
+
 ## Entertainment
 
 * [Wumo](http://wumo.com) - comic
