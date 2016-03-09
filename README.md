@@ -156,6 +156,7 @@ Typography Tools
 
 * [Sage](https://roots.io/sage/) - wordpress starter theme
 * [Using Sage/Roots 8.0.0](https://www.youtube.com/watch?v=F6U4GcCRFp0) - presentation (youtube)
+* [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for OSX
 
 
 ## Web Services
