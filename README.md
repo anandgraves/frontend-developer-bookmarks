@@ -98,16 +98,16 @@
 
 
 ## CSS
-Articles/Presentations/Video
+### Articles/Presentations/Video
   * [CSS for Software Engineers for CSS Developers](https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers) - applying traditional software engineering principles directly (or indirectly) to CSS.
   * [Write CSS in specificity order](https://www.youtube.com/watch?v=1OKZOV-iLj4&hd=1) - harry roberts talk on managing css projects with itcss
   * [Measuring and sizing UIs, 2011-style (and beyond)](http://csswizardry.com/2011/12/measuring-and-sizing-uis-2011-style/)
   * [CSS background image hacks](http://nicolasgallagher.com/css-background-image-hacks/)
 
-Flexbox
+### Flexbox
   * [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 
-Tools/Frameworks
+### Tools/Frameworks
   * [inuitcss](https://github.com/inuitcss) - sass-based, bem, oocss framework designed with scalability and performance in mind
   * [Emmet LiveStyle[(http://livestyle.io/) — the first bi-directional real-time edit tool for CSS, LESS and SCSS
 http://livestyle.io 
@@ -118,18 +118,18 @@ http://livestyle.io
   * [Hologram](http://trulia.github.io/hologram/) - living styleguides with a user friendly setup
   * [Parker](https://github.com/katiefenn/parker) - a stylesheet analysis tool that runs metrics on your stylesheets and will report on their complexity
 
-Guidelines
+### Guidelines
   * [css {guide: lines;}](http://cssguidelin.es/)
   * [Sass Guidelines](http://sass-guidelin.es/)
   * [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/)
   * [Primer](http://primercss.io/) - css toolkit and guidelines that power 
 
-GitHub
+### GitHub
 * Resources
   * [CSSWizardry](http://csswizardry.com/)
   * [CSS-Tricks](https://css-tricks.com/)
 
-Miscellaneous
+### Miscellaneous
   * [Vendor-prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview/)
   * [CSS Reference](http://tympanus.net/codrops/css_reference/)
   * [Style Guide Resources](http://styleguides.io/)
