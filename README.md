@@ -3,6 +3,8 @@
 
 ## General
 
+* [From Pages to Patterns: An Exercise for Everyone
+](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone) - build components instead of pages
 * [JavaScript Guiding Principles](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.fdgg9w4td)
 * [The Fallacy of Keeping Up](https://timkadlec.com/2015/09/the-fallacy-of-keeping-up/)
 * [Front-end Handbook](http://www.frontendhandbook.com/)
