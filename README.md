@@ -85,6 +85,7 @@
 
 ## Responsive Design
 
+* [PX, EM or REM Media Queries?](http://zellwk.com/blog/media-query-units/)
 * [Google Resizer](http://design.google.com/resizer/)
 * [Responsive Images 101](http://blog.cloudfour.com/responsive-images-101-definitions/) - 10 articles about responsive images
 * [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
