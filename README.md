@@ -325,6 +325,7 @@ Get help and help others through several channels.
 ## UX
 
 * [A Good User Interface](https://www.goodui.org/)
+* [User Interface Design patterns](http://ui-patterns.com/)
 * [UX Design Resources](http://uxdesign.cc/) - methods & deliverables, tools, links, books, inspiration
 * [The Top and Bottom](http://www.lukew.com/ff/entry.asp?878) - adding value to both the big picture and the details of a design problem
 * [User Onboarding](https://www.useronboard.com/onboarding-teardowns/) - see how popular web apps handle their signup experiences (slack, evernote, instagram, trello, meetup, etc.)
