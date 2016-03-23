@@ -17,10 +17,20 @@
 * [Gigantic list of Frontend developer bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [Libraries.io](https://libraries.io) - search in open source libraries
 * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
-* [Designing with Progressive Enhancement](http://sixtwothree.org/posts/designing-with-progressive-enhancement)
 * [thoughtbot Playbook](https://thoughtbot-playbook.s3.amazonaws.com/playbook/playbook.pdf) - the who, what, why, where, when, and how of modern application development (pdf)
 * [U.S. Digital Services Playbook](https://playbook.cio.gov/)
 * [Site scan](https://dev.windows.com/en-us/microsoft-edge/tools/staticscan/) - run a quick code scan on any URL to check for out-of-date libraries, layout issues, and accessibility
+
+
+## Progressive Enhancement
+
+* [Designing with Progressive Enhancement](http://sixtwothree.org/posts/designing-with-progressive-enhancement)
+* [Hijax: Progressive Enhancement with Ajax](http://domscripting.com/presentations/xtech2006/)
+
+
+## Progressive Web Apps
+
+* [Progressive Web Apps - Google](https://developers.google.com/web/progressive-web-apps?hl=en)
 
 
 ## JavaScript Excercises/Courses/Assesments
