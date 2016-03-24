@@ -35,13 +35,14 @@
 
 ## JavaScript Excercises/Courses/Assesments
 
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 * [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
 * [Nodeschool](http://nodeschool.io/) - learning essential skills for working with Node.js
 
 
 ## JavaScript
 
-* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+* [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html)
 * [ECMAScript 5 Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
 * [From jQuery to vanilla JS](http://codeblog.cz/vanilla/) - examples are written with the upcoming dom4 standard in mind. A polyfill is available.
 * [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures) - an extensive explanation of closures with visuals
