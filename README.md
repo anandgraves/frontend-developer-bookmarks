@@ -107,6 +107,7 @@
 ## HTML
 
 * [Dive into HTML5](http://diveintohtml5.info/)
+* [Check Unicode support for browsers and devices](http://unicode.johnholtripley.co.uk/all/)
 * [Input Type Sandbox](http://inputtypes.com/) - test onscreen keyboards, input types, patterns and attributes
 * [HTML Inspector](https://github.com/philipwalton/html-inspector)
 * [Unicode Character Table](http://unicode-table.com/en/)
