@@ -57,6 +57,7 @@
 * [HTML5 Please](http://html5please.com/) - search for polyfills
 * [JSON Visualization](http://chris.photobooks.com/json/)
 * [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+* [JavaScript Promises - Udacity](https://www.udacity.com/course/javascript-promises--ud898)
 
 
 ## JavaScript Libraries
