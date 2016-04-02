@@ -24,6 +24,7 @@
 
 ## Progressive Enhancement
 
+* [Stop Breaking the Web](https://ponyfoo.com/articles/stop-breaking-the-web)
 * [Designing with Progressive Enhancement](http://sixtwothree.org/posts/designing-with-progressive-enhancement)
 * [Hijax: Progressive Enhancement with Ajax](http://domscripting.com/presentations/xtech2006/)
 
