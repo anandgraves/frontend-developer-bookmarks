@@ -224,16 +224,14 @@ Get help and help others through several channels.
 
 ## NPM
 
+* [How to install global npm packages without sudo](http://www.planetnodejs.com/article/550744d4b8db0f0e00ac23c3/a-beginners-guide-to-npm-the-node-package-manager)
 * [dependency-check](https://www.npmjs.com/package/dependency-check)
 * [browserSync](http://www.browsersync.io/)
 * [Gulp](http://gulpjs.com/)
 * [Updating Dependencies in a package.json](http://alwaystwisted.com/articles/updating-dependencies-in-a-packagejson)
 * [gulp-ruby-sass](https://www.npmjs.com/package/gulp-ruby-sass)
-* [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
-* [UglifyJS](https://www.npmjs.com/package/uglify-js)
 * [svgo](https://www.npmjs.com/package/svgo) - optimizing SVG vector graphics files
 * [Flightplan](https://www.npmjs.org/package/flightplan) - very flexible/powerful deployment/systems administration tasks tool
-* [run-sequence](https://www.npmjs.com/package/run-sequence)
 
 
 ## Performance
