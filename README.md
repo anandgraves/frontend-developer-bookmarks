@@ -174,6 +174,8 @@ Typography Tools
 
 * [Sage](https://roots.io/sage/) - wordpress starter theme
 * [Using Sage/Roots 8.0.0](https://www.youtube.com/watch?v=F6U4GcCRFp0) - presentation (youtube)
+* [Bedrock](https://roots.io/bedrock/) - WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure
+* [Best practices for WordPress plugin development](https://developer.wordpress.org/plugins/the-basics/best-practices/)
 * [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for OSX
 
 
