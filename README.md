@@ -324,6 +324,7 @@ Get help and help others through several channels.
 
 ## Server
 
+* [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 * [VirtualBox](https://virtualbox.org)
 * [Htaccess](https://github.com/h5bp/html5-boilerplate/blob/master/dist/.htaccess) - html5 boilerplate
 * [HTTP Request & Response Service](http://httpbin.org/) - HTTP Request & Response Service
