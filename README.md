@@ -22,6 +22,11 @@
 * [Site scan](https://dev.windows.com/en-us/microsoft-edge/tools/staticscan/) - run a quick code scan on any URL to check for out-of-date libraries, layout issues, and accessibility
 
 
+## Accessibility
+
+* [ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Some practical ARIA examples to enhance your application accessibility (by @heydonworks)
+
+
 ## Progressive Enhancement
 
 * [Stop Breaking the Web](https://ponyfoo.com/articles/stop-breaking-the-web)
