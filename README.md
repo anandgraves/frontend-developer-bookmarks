@@ -288,6 +288,7 @@ Get help and help others through several channels.
 
 ## Security
 
+* [Massive malvertising attack poisons 288 sites](https://nakedsecurity.sophos.com/2016/04/12/massive-malvertising-attack-poisons-288-sites/)
 * [How To Kill The Password: Don't Ask For One](http://readwrite.com/2015/07/01/medium-passwordless-system)
 * [Passwordless](https://passwordless.net/)
 * [ProntonMail](https://protonmail.ch/) - encrypted email
