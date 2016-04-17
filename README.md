@@ -130,6 +130,7 @@
 
 ### Flexbox
   * [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+  * [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
 
 ### Tools/Frameworks
   * [inuitcss](https://github.com/inuitcss) - sass-based, bem, oocss framework designed with scalability and performance in mind
