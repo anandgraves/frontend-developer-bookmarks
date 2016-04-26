@@ -194,6 +194,7 @@ for front-end developers
 * [srvdir](https://www.srvdir.net/) - make any directory a secure public https file server in one command
 * [ngrok](https://ngrok.com/) - expose a local server behind a nat or firewall to the internet
 * [RawGit](http://rawgit.com/) - serves raw files directly from github with proper content-type headers
+* [Show browser and os info](http://www.whatsmybrowser.org/) - instantly share info with a shorturl
 * [runnable](http://runnable.com/) - run code from different stacks
 * [cdnjs.com](https://cdnjs.com/) - cdn for js, css, images, icon fonts, etc.
 * [Polyfill Service](https://cdn.polyfill.io) - [An easier way of using polyfills](https://hacks.mozilla.org/2014/11/an-easier-way-of-using-polyfills/)
