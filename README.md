@@ -291,6 +291,7 @@ Get help and help others through several channels.
 
 * [A practical guide to securing OS X](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
 * [Extending and consolidating hosts files from a variety of sources](https://github.com/StevenBlack/hosts)
+* [Alert when anything is persistently installed on OSX](https://objective-see.com/products/blockblock.html)
 * [Massive malvertising attack poisons 288 sites](https://nakedsecurity.sophos.com/2016/04/12/massive-malvertising-attack-poisons-288-sites/)
 * [How To Kill The Password: Don't Ask For One](http://readwrite.com/2015/07/01/medium-passwordless-system)
 * [Passwordless](https://passwordless.net/)
