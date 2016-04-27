@@ -404,9 +404,10 @@ Get help and help others through several channels.
 * [F.lux](https://justgetflux.com/)
 
 
-## Miscellaneous
+## Content
 
 * [How to Design a Better Pitch Deck](http://themacro.com/articles/2015/11/how-to-design-a-better-pitch-deck/)
+* [How to Improve Your PowerPoint Slides with the Rule of Thirds](http://sixminutes.dlugan.com/rule-of-thirds-powerpoint/)
 
 
 ## Entertainment
