@@ -377,6 +377,7 @@ Get help and help others through several channels.
 
 ## Blogs
 
+* [Gleb Bahmutov](https://glebbahmutov.com/blog/)
 * [Nicolas Gallagher](http://nicolasgallagher.com/)
 * [David Walsh](http://davidwalsh.name/)
 
