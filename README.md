@@ -190,6 +190,7 @@ Typography Tools
 
 ## Web Services
 
+* [ShareDrop](https://www.sharedrop.io/) - p2p file transfer in the browser with WebRTC
 * [surge.sh](https://surge.sh/) - static web publishing
 for front-end developers
 * [srvdir](https://www.srvdir.net/) - make any directory a secure public https file server in one command
