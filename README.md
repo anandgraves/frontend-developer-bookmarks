@@ -266,8 +266,8 @@ Get help and help others through several channels.
 ## Markdown
 
 * [Why use Markdown](http://michaelhyatt.com/raw.txt)
-* [MacDown](http://macdown.uranusjr.com/) - open source markdown editor for osx influenced by Mou
-* [Mou](http://25.io/mou/) - markdown editor for developers
+* [Typora](http://www.typora.io/) - best Markdown editor with excellent WYSIWYG, no preview window and drag/drop images
+* [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables)
 
 
 ## Editors
