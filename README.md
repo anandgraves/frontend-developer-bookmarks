@@ -400,6 +400,7 @@ Get help and help others through several channels.
 
 ## Lifehacking tools
 
+* [The Ultimate Guide to Personal Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/#Personal-Kanban)
 * [Paparazzi!](https://derailer.org/paparazzi/) - take screenshots of web pages using webkit (is unfortunately offline - searching for an alternative...)
 * [LICEcap](https://github.com/lepht/licecap) - screen capture to gif
 * [Trello](https://trello.com/) - flexible, and visual way to organize anything with anyone
