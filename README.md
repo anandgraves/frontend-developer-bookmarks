@@ -260,6 +260,7 @@ Get help and help others through several channels.
 
 ## Terminal
 
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 * [trash](https://github.com/sindresorhus/trash) - safer alternative to `rm` by moving files and directories to the trash. Use [osx-trash](https://github.com/sindresorhus/osx-trash) on OSX.
 * [iTerm2](http://iterm2.com/) - replacement for Terminal
 * [ranger](https://github.com/hut/ranger) - text-based file manager which works like the column view in OS X’s Finder
