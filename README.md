@@ -5,8 +5,8 @@
 
 * [From Pages to Patterns: An Exercise for Everyone
 ](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone) - build components instead of pages
-* [JavaScript Guiding Principles](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.fdgg9w4td)
 * [The Fallacy of Keeping Up](https://timkadlec.com/2015/09/the-fallacy-of-keeping-up/)
+* [What is a programming language?](http://pgbovine.net/what-is-a-programming-language.htm)
 * [Front-end Handbook](http://www.frontendhandbook.com/)
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 * [W3C Web Design & Application](https://www.w3.org/standards/webdesign/) - specifications for the core web technologies
@@ -20,7 +20,7 @@
 * [thoughtbot Playbook](https://thoughtbot-playbook.s3.amazonaws.com/playbook/playbook.pdf) - the who, what, why, where, when, and how of modern application development (pdf)
 * [U.S. Digital Services Playbook](https://playbook.cio.gov/)
 * [Site scan](https://dev.windows.com/en-us/microsoft-edge/tools/staticscan/) - run a quick code scan on any URL to check for out-of-date libraries, layout issues, and accessibility
-8 [101 Ways to Make Your Website More Awesome](https://www.awesomeweb.com/blog/make-website-awesome)
+* [101 Ways to Make Your Website More Awesome](https://www.awesomeweb.com/blog/make-website-awesome)
 
 
 ## Accessibility
@@ -50,6 +50,7 @@
 
 ## JavaScript
 
+* [JavaScript Guiding Principles](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.fdgg9w4td)
 * [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html)
 * [ECMAScript 5 Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
 * [From jQuery to vanilla JS](http://codeblog.cz/vanilla/) - examples are written with the upcoming dom4 standard in mind. A polyfill is available.
