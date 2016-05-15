@@ -297,7 +297,6 @@ Get help and help others through several channels.
 ## Security
 
 * [A practical guide to securing OS X](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
-* [Extending and consolidating hosts files from a variety of sources](https://github.com/StevenBlack/hosts)
 * [Alert when anything is persistently installed on OSX](https://objective-see.com/products/blockblock.html)
 * [Massive malvertising attack poisons 288 sites](https://nakedsecurity.sophos.com/2016/04/12/massive-malvertising-attack-poisons-288-sites/)
 * [How To Kill The Password: Don't Ask For One](http://readwrite.com/2015/07/01/medium-passwordless-system)
@@ -345,6 +344,7 @@ Get help and help others through several channels.
 
 ## Server
 
+* [Extending and consolidating hosts files from a variety of sources](https://github.com/StevenBlack/hosts)
 * [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 * [VirtualBox](https://virtualbox.org)
 * [Htaccess](https://github.com/h5bp/html5-boilerplate/blob/master/dist/.htaccess) - html5 boilerplate
