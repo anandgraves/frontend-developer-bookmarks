@@ -266,6 +266,7 @@ Get help and help others through several channels.
 * [ranger](https://github.com/hut/ranger) - text-based file manager which works like the column view in OS X’s Finder
 * [z](https://github.com/rupa/z) - cd into most used directories
 * [Launch an OS X Terminal Window from the Finder](http://lifehacker.com/launch-an-os-x-terminal-window-from-a-specific-folder-1466745514)
+* [Pandoc](http://pandoc.org/) - universal document converter
 
 
 ## Markdown
