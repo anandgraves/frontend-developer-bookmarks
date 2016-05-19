@@ -241,6 +241,7 @@ Get help and help others through several channels.
 
 ## NPM
 
+* [Watch & Compile your Sass with npm](https://medium.com/@brianhan/watch-compile-your-sass-with-npm-9ba2b878415b#.u7pz577b8)
 * [How to install global npm packages without sudo](http://www.planetnodejs.com/article/550744d4b8db0f0e00ac23c3/a-beginners-guide-to-npm-the-node-package-manager)
 * [dependency-check](https://www.npmjs.com/package/dependency-check)
 * [browserSync](http://www.browsersync.io/)
