@@ -126,6 +126,7 @@
 
 ## CSS
 ### Articles/Presentations/Video
+  * [Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
   * [CSS for Software Engineers for CSS Developers](https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers) - applying traditional software engineering principles directly (or indirectly) to CSS.
   * [Write CSS in specificity order](https://www.youtube.com/watch?v=1OKZOV-iLj4&hd=1) - harry roberts talk on managing css projects with itcss
   * [Measuring and sizing UIs, 2011-style (and beyond)](http://csswizardry.com/2011/12/measuring-and-sizing-uis-2011-style/)
