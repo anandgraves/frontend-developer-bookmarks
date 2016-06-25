@@ -44,6 +44,7 @@
 
 ## JavaScript Excercises/Courses/Assesments
 
+* [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 * [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
 * [Nodeschool](http://nodeschool.io/) - learning essential skills for working with Node.js
