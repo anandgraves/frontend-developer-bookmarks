@@ -265,6 +265,7 @@ Get help and help others through several channels.
 
 ## Terminal
 
+* [youtube-dl](http://rg3.github.io/youtube-dl/) - download videos from a large list of popular sites
 * [pageres-cli](https://github.com/sindresorhus/pageres-cli) - capture website screenshots
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 * [trash](https://github.com/sindresorhus/trash) - safer alternative to `rm` by moving files and directories to the trash. Use [osx-trash](https://github.com/sindresorhus/osx-trash) on OSX.
