@@ -71,8 +71,9 @@
 * [JavaScript Promises - Udacity](https://www.udacity.com/course/javascript-promises--ud898)
 
 
-## JavaScript Libraries
+## JavaScript Libraries/Polyfills
 
+* [flexibility](https://github.com/10up/flexibility) - Use flexbox while supporting older Internet Explorers
 * [fetch](https://github.com/github/fetch) - polyfill for making xhr requests using promises
 * [moment](https://github.com/moment/moment/) - parse, validate, manipulate, and display dates in javascript
 * [Papa Parse](http://papaparse.com/) - powerful in-browser CSV parser
