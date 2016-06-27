@@ -306,6 +306,7 @@ Get help and help others through several channels.
 
 ## Security
 
+* [Things to Know (and Potential Dangers) with Third-Party Scripts](https://css-tricks.com/potential-dangers-of-third-party-javascript/)
 * [A practical guide to securing OS X](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
 * [Alert when anything is persistently installed on OSX](https://objective-see.com/products/blockblock.html)
 * [Massive malvertising attack poisons 288 sites](https://nakedsecurity.sophos.com/2016/04/12/massive-malvertising-attack-poisons-288-sites/)
