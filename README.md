@@ -3,6 +3,7 @@
 
 ## General
 
+* [Why I switched to Android after 7 years of iOS](https://joreteg.com/blog/why-i-switched-to-android)
 * [From Pages to Patterns: An Exercise for Everyone
 ](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone) - build components instead of pages
 * [The Fallacy of Keeping Up](https://timkadlec.com/2015/09/the-fallacy-of-keeping-up/)
