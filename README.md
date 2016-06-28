@@ -169,6 +169,13 @@ http://livestyle.io
   * [How to center in CSS](http://howtocenterincss.com/)
 
 
+## SVG
+
+* [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
+* [GUI for SVGO](https://jakearchibald.github.io/svgomg/)
+* [SVGO](https://www.npmjs.com/package/svgo) - optimizing SVG vector graphics files
+
+
 ## Typography
 
 * [Hack](http://sourcefoundry.org/hack/) - an open source typeface designed for source code
@@ -253,7 +260,6 @@ Get help and help others through several channels.
 * [Gulp](http://gulpjs.com/)
 * [Updating Dependencies in a package.json](http://alwaystwisted.com/articles/updating-dependencies-in-a-packagejson)
 * [gulp-ruby-sass](https://www.npmjs.com/package/gulp-ruby-sass)
-* [svgo](https://www.npmjs.com/package/svgo) - optimizing SVG vector graphics files
 * [Flightplan](https://www.npmjs.org/package/flightplan) - very flexible/powerful deployment/systems administration tasks tool
 
 
