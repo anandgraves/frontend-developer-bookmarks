@@ -364,6 +364,7 @@ Get help and help others through several channels.
 
 ## Server
 
+* [Middleware Guide](https://stephensugden.com/middleware_guide/)
 * [Extending and consolidating hosts files from a variety of sources](https://github.com/StevenBlack/hosts)
 * [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 * [VirtualBox](https://virtualbox.org)
