@@ -164,6 +164,7 @@ http://livestyle.io
   * [CSS-Tricks](https://css-tricks.com/)
 
 ### Miscellaneous
+  * [Decorative Text Underline](https://codepen.io/jonneal/pen/PzGYEE?editors=0100)
   * [currentColor](https://css-tricks.com/currentcolor/) - [issues in browsers](http://stackoverflow.com/a/16560019)
   * [Vendor-prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview/)
   * [CSS Reference](http://tympanus.net/codrops/css_reference/)
