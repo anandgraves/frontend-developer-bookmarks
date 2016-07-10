@@ -164,6 +164,7 @@ http://livestyle.io
   * [CSS-Tricks](https://css-tricks.com/)
 
 ### Miscellaneous
+  * [currentColor](https://css-tricks.com/currentcolor/)
   * [Vendor-prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview/)
   * [CSS Reference](http://tympanus.net/codrops/css_reference/)
   * [Style Guide Resources](http://styleguides.io/)
