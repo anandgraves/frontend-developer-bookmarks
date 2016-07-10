@@ -182,7 +182,7 @@
 
 
 ## Icons
-* [https://design.google.com/icons/](Google Material Icons)
+* [Google Material Icons](https://design.google.com/icons/)
 * [IcoMoon](https://icomoon.io/app/#/select) - create svg sprites, font icons
 * [Fontello](http://fontello.com/) - icon font generator
 
