@@ -181,6 +181,12 @@
 * [SVGO](https://www.npmjs.com/package/svgo) - optimizing SVG vector graphics files
 
 
+## Icons
+* [https://design.google.com/icons/](Google Material Icons)
+* [IcoMoon](https://icomoon.io/app/#/select) - create svg sprites, font icons
+* [Fontello](http://fontello.com/) - icon font generator
+
+
 ## Typography
 
 * [Hack](http://sourcefoundry.org/hack/) - an open source typeface designed for source code
@@ -189,8 +195,6 @@
 
 Typography Tools
   * [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) - get eot, ttf, svg, woff and woff2 files + css snippets
-  * [IcoMoon](https://icomoon.io/app/#/select) - create svg sprites, font icons
-  * [Fontello](http://fontello.com/) - icon font generator
   * [Input](http://input.fontbureau.com/) - fonts for code
   * [Web Font Load](http://webfontload.com/) - install all google fonts with 1 terminal command
   * [Type Sample](http://www.typesample.com/) - identifying and sampling web fonts
