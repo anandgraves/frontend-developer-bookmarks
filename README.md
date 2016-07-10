@@ -388,6 +388,7 @@ Get help and help others through several channels.
 * [Good Email Copy](http://www.goodemailcopy.com/)
 * [User Interface Design patterns](http://ui-patterns.com/)
 * [UX Design Resources](http://uxdesign.cc/) - methods & deliverables, tools, links, books, inspiration
+* [UI/UX Articles](https://uxplanet.org/@101)
 * [The Top and Bottom](http://www.lukew.com/ff/entry.asp?878) - adding value to both the big picture and the details of a design problem
 * [User Onboarding](https://www.useronboard.com/onboarding-teardowns/) - see how popular web apps handle their signup experiences (slack, evernote, instagram, trello, meetup, etc.)
 * [Hyper Island Toolbox](http://toolbox.hyperisland.com/) - a resource kit you can use to apply creative collaboration and unleash potential in your team or organization
