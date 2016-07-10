@@ -159,8 +159,7 @@
   * [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/)
   * [Primer](http://primercss.io/) - css toolkit and guidelines that power 
 
-### GitHub
-* Resources
+### Resources
   * [CSSWizardry](http://csswizardry.com/)
   * [CSS-Tricks](https://css-tricks.com/)
 
