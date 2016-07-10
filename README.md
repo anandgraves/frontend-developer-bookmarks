@@ -145,8 +145,7 @@
 ### Tools/Frameworks
   * [PostCSS.parts](http://postcss.parts/) - searchable catalog of PostCSS plugins
   * [inuitcss](https://github.com/inuitcss) - sass-based, bem, oocss framework designed with scalability and performance in mind
-  * [Emmet LiveStyle[(http://livestyle.io/) — the first bi-directional real-time edit tool for CSS, LESS and SCSS
-http://livestyle.io 
+  * [Emmet LiveStyle](http://livestyle.io/) — the first bi-directional real-time edit tool for CSS, LESS and SCSS
   * [Susy toolkit](http://susy.oddbird.net/) - extremely versatile grid toolkit
   * [Reasonable Standard for CSS Stylesheet Structure](https://github.com/rstacruz/rscss)
   * [Specificity Calculator](http://specificity.keegan.st/)
