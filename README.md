@@ -196,7 +196,7 @@
 Typography Tools
   * [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) - get eot, ttf, svg, woff and woff2 files + css snippets
   * [Input](http://input.fontbureau.com/) - fonts for code
-  * [Web Font Load](http://webfontload.com/) - install all google fonts with 1 terminal command
+  * [Web Font Load](https://github.com/qrpike/Web-Font-Load) - install all google fonts with 1 terminal command
   * [Type Sample](http://www.typesample.com/) - identifying and sampling web fonts
 
 
