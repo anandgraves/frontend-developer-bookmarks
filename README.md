@@ -216,6 +216,7 @@ Typography Tools
 * [Domain lookup](http://domainr.build/) - with a domain autocomplete
 * [Sequence Diagrams](http://knsv.github.io/mermaid/live_editor/) - generate diagrams with Markdown like markup
 * [Web Sequence Diagrams](https://www.websequencediagrams.com/) - generate diagrams with a gui
+* [URL encoder/decoder](https://mothereff.in/url)
 * [ShareDrop](https://www.sharedrop.io/) - p2p file transfer in the browser with WebRTC
 * [surge.sh](https://surge.sh/) - static web publishing
 for front-end developers
