@@ -246,6 +246,7 @@ Get help and help others through several channels.
 * [7 Rules for Creating Gorgeous UI (Part 1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 * [7 Rules for Creating Gorgeous UI (Part 2)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)
 * [10 commandments of color theory](http://www.youthedesigner.com/wp-content/uploads/2014/06/the-10-commandments-of-color-theory_537dc47b1c394.jpg)
+* [Logo's (inspiration)](https://nl.pinterest.com/jurgenleckie/icons-%2B-logos/)
 
 
 ## Regular Expressions
