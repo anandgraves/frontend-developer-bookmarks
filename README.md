@@ -124,6 +124,7 @@
 ## HTML
 
 * [Dive into HTML5](http://diveintohtml5.info/)
+* [Don't use only h1 elements](https://www.w3.org/wiki/HTML/Usage/Headings/h1only)
 * [A collection of HTML head elements](https://github.com/joshbuchea/HEAD)
 * [Check Unicode support for browsers and devices](http://unicode.johnholtripley.co.uk/all/)
 * [Input Type Sandbox](http://inputtypes.com/) - test onscreen keyboards, input types, patterns and attributes
