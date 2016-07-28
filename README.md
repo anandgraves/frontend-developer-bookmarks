@@ -76,6 +76,11 @@
 * [JavaScript Promises - Udacity](https://www.udacity.com/course/javascript-promises--ud898)
 
 
+## ES6
+
+* [ES6 Katas](http://es6katas.org/) - learn ES6 by fixing failing tests. [Read the article about ES6 katas](http://www.uxebu.com/index.html%3Fp=6883.html).
+
+
 ## JavaScript Libraries/Polyfills
 
 * [flexibility](https://github.com/10up/flexibility) - Use flexbox while supporting older Internet Explorers
