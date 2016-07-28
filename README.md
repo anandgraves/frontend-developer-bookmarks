@@ -262,6 +262,7 @@ Get help and help others through several channels.
 
 ## Code Playground
 
+* [TDD bin](http://tddbin.com/)
 * [CodePen](http://codepen.io/)
 * [JS Bin](http://jsbin.com/)
 * [repl.it](http://repl.it/) - terminal emulator and code editor for multiple languages
