@@ -51,6 +51,7 @@
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 * [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
 * [Nodeschool](http://nodeschool.io/) - learning essential skills for working with Node.js
+* [Project Euler]() - series of challenging mathematical/computer programming problems to solve ( JavaScript is not required)
 
 
 ## JavaScript
