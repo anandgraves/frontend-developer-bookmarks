@@ -208,6 +208,11 @@ Typography Tools
   * [Type Sample](http://www.typesample.com/) - identifying and sampling web fonts
 
 
+## PHP
+
+* [Functional Programming in PHP](https://www.simonholywell.com/static/slides/2014-02-12/)
+
+
 ## WordPress
 
 * [Sage](https://roots.io/sage/) - wordpress starter theme
