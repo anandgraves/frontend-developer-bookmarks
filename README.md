@@ -3,6 +3,7 @@
 
 ## General
 
+* [Enki](https://enki.com/) - the 5-minute daily workout for your dev skills
 * [Front-end Conferences (video)](https://github.com/dmytroyarmak/frontend-dev-resources#conferences)
 * [Why I switched to Android after 7 years of iOS](https://joreteg.com/blog/why-i-switched-to-android)
 * [From Pages to Patterns: An Exercise for Everyone
