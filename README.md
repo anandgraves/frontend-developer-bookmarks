@@ -300,6 +300,7 @@ Get help and help others through several channels.
 ## Terminal
 
 * [Black Screen](https://github.com/shockone/black-screen) - A terminal emulator for the 21st century built with TypeScript, ReactJS and Electron
+* [ncdu](https://dev.yorhel.nl/ncdu/scr) - install with ```brew install ncdu```
 * [youtube-dl](http://rg3.github.io/youtube-dl/) - download videos from a large list of popular sites
 * [pageres-cli](https://github.com/sindresorhus/pageres-cli) - capture website screenshots
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
