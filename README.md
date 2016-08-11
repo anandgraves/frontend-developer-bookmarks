@@ -57,7 +57,7 @@
 
 ## JavaScript
 
-* [What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.iv5md8utb)
+* [What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.iv5md8utb) - Class inheritance has the fragile bass class problem. Favor composition over inheritance.
 * [JavaScript Guiding Principles](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.fdgg9w4td)
 * [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html)
 * [ECMAScript 5 Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
