@@ -227,6 +227,7 @@ Typography Tools
 
 ## Web Services
 
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping
 * [Domain lookup](http://domainr.build/) - with a domain autocomplete
 * [Sequence Diagrams](http://knsv.github.io/mermaid/live_editor/) - generate diagrams with Markdown like markup
 * [Web Sequence Diagrams](https://www.websequencediagrams.com/) - generate diagrams with a gui
