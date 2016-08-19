@@ -85,6 +85,7 @@
 
 ## JavaScript Libraries/Polyfills
 
+* [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
 * [flexibility](https://github.com/10up/flexibility) - Use flexbox while supporting older Internet Explorers
 * [fetch](https://github.com/github/fetch) - polyfill for making xhr requests using promises
 * [moment](https://github.com/moment/moment/) - parse, validate, manipulate, and display dates in javascript
