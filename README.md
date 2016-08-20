@@ -157,7 +157,7 @@
 ### Tools/Frameworks/UIs
   * [PostCSS.parts](http://postcss.parts/) - searchable catalog of PostCSS plugins
   * [Progress Tracker](http://nigelotoole.github.io/progress-tracker/) - SASS component to illustrate the steps in a multi step process e.g. a multi step form, a timeline or a quiz.
-  * [inuitcss](https://github.com/inuitcss) - sass-based, bem, oocss framework designed with scalability and performance in mind
+  * [inuitcss](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.
   * [Emmet LiveStyle](http://livestyle.io/) — the first bi-directional real-time edit tool for CSS, LESS and SCSS
   * [Susy toolkit](http://susy.oddbird.net/) - extremely versatile grid toolkit
   * [Reasonable Standard for CSS Stylesheet Structure](https://github.com/rstacruz/rscss)
