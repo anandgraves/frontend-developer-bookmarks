@@ -143,6 +143,11 @@
 
 
 ## CSS
+
+### Future
+ * [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
+ * [`font-display` for the Masses](https://css-tricks.com/font-display-masses/)
+
 ### Articles/Presentations/Video
   * [Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
   * [CSS for Software Engineers for CSS Developers](https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers) - applying traditional software engineering principles directly (or indirectly) to CSS.
