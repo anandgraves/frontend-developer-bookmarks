@@ -99,6 +99,13 @@
 * [Chosen](http://harvesthq.github.io/chosen/) - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
 
 
+## JavaScript: jQuery
+
+* [jQuery style guide (De Voorhoede)](https://github.com/voorhoede/jquery-style-guide)
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+* [jQuery to VanillaJS](http://codeblog.cz/vanilla/) - Polyfill for the DOM4 standard
+
+
 ## No Frameworks
 
 * [Do Not Learn Frameworks. Learn the Architecture](http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture)
