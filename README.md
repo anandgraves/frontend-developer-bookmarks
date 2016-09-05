@@ -140,6 +140,7 @@
 
 ## HTML
 
+* [HTML5 elements and attributes](https://simon.html5.org/html-elements) - all of them
 * [Dive into HTML5](http://diveintohtml5.info/)
 * [Don't use only h1 elements](https://www.w3.org/wiki/HTML/Usage/Headings/h1only)
 * [A collection of HTML head elements](https://github.com/joshbuchea/HEAD)
