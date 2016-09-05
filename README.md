@@ -295,6 +295,7 @@ Get help and help others through several channels.
 ## Git
 
 * [first aid git](http://firstaidgit.io/) - searchable collection of the most frequently asked Git questions
+* [Pro Git](https://progit.org/) - an online open source book
 
 
 ## NPM
