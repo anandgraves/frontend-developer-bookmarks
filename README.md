@@ -83,8 +83,9 @@
 * [ES6 Katas](http://es6katas.org/) - learn ES6 by fixing failing tests. [Read the article about ES6 katas](http://www.uxebu.com/index.html%3Fp=6883.html).
 
 
-## JavaScript Libraries/Polyfills
+## JavaScript Libraries
 
+* [Flow](https://flowtype.org/) - Adds static typing to JavaScript to improve developer productivity and code quality.
 * [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
 * [Font Face Observer](https://fontfaceobserver.com/) -  fast and simple promised based web font loader
 * [flexibility](https://github.com/10up/flexibility) - Use flexbox while supporting older Internet Explorers
