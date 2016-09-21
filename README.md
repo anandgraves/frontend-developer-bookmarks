@@ -363,6 +363,7 @@ Get help and help others through several channels.
 
 ## Security
 
+* [The target="_blank" vulnerability by example](https://dev.to/ben/the-targetblank-vulnerability-by-example)
 * [Things to Know (and Potential Dangers) with Third-Party Scripts](https://css-tricks.com/potential-dangers-of-third-party-javascript/)
 * [A practical guide to securing OS X](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
 * [Alert when anything is persistently installed on OSX](https://objective-see.com/products/blockblock.html)
