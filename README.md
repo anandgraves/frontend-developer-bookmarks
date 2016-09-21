@@ -50,8 +50,6 @@
 ## JavaScript Excercises/Courses/Assesments
 
 * [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
-* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
-* [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
 * [Nodeschool](http://nodeschool.io/) - learning essential skills for working with Node.js
 * [Project Euler]() - series of challenging mathematical/computer programming problems to solve ( JavaScript is not required)
 
@@ -121,6 +119,14 @@
 * [CS50 lectures](https://cs50.harvard.edu/lectures/0/w)
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - list of awesome university courses for learning computer science
 * [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+
+## Functional Programming
+
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+* [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
+* [Functional Programming in PHP](https://www.simonholywell.com/static/slides/2014-02-12/)
 
 
 ## Build Cross Platform Apps
@@ -224,11 +230,6 @@ Typography Tools
   * [Input](http://input.fontbureau.com/) - fonts for code
   * [Web Font Load](https://github.com/qrpike/Web-Font-Load) - install all google fonts with 1 terminal command
   * [Type Sample](http://www.typesample.com/) - identifying and sampling web fonts
-
-
-## PHP
-
-* [Functional Programming in PHP](https://www.simonholywell.com/static/slides/2014-02-12/)
 
 
 ## WordPress
