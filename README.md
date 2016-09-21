@@ -446,6 +446,7 @@ Get help and help others through several channels.
 
 ## Dummy content
 
+* [LittleIpsum](https://itunes.apple.com/us/app/littleipsum/id405772121?mt=12) - quickly copy/paste lorem ipsum sentences/paragraphs
 * [forceFeed](https://github.com/Heydon/forceFeed) - test your design for variable, dynamic content
 * [loripsum](http://loripsum.net/) - a lorem ipsum generator that generates more than just plain text
 * [LibreStock](http://librestock.com/) - search through thousands of high quality do-what-ever-you-want stock photo
