@@ -326,7 +326,6 @@ Get help and help others through several channels.
 * [tldr](https://github.com/tldr-pages/tldr) - Simplified and human readable community-driven man pages 
 * [ncdu](https://dev.yorhel.nl/ncdu/scr) - install with ```brew install ncdu```
 * [youtube-dl](http://rg3.github.io/youtube-dl/) - download videos from a large list of popular sites
-* [pageres-cli](https://github.com/sindresorhus/pageres-cli) - capture website screenshots
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 * [trash](https://github.com/sindresorhus/trash) - safer alternative to `rm` by moving files and directories to the trash. Use [osx-trash](https://github.com/sindresorhus/osx-trash) on OSX.
 * [iTerm2](http://iterm2.com/) - replacement for Terminal
@@ -399,12 +398,10 @@ Get help and help others through several channels.
 
 ## Chrome Extensions
 
-* [Dream Afar New Tab](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn) - Displays stunning landscapes on the new tab page
 * [JSON Formatter](https://github.com/callumlocke/json-formatter)
 * [Postman](http://www.getpostman.com/) - REST Client (packaged app)
 * [Emmet Re:View](http://re-view.emmet.io/)
 * [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn/)
-* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 * [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom)
 * [Pesticide for Chrome](http://pesticide.io/)
 * [JunkFill](https://chrome.google.com/webstore/detail/junkfill/cajejbcjfkhgmfbapmhopccephhjedeb)
@@ -474,10 +471,16 @@ Get help and help others through several channels.
 * [Smashing Magazine Newsletter](http://www.smashingmagazine.com/the-smashing-newsletter/)
 
 
+## Screenshot tools
+* [Paparazzi!](https://derailer.org/paparazzi/) - take screenshots of responsive web pages using webkit
+* [pageres-cli](https://github.com/sindresorhus/pageres-cli) - capture responsive website screenshots
+* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
+
+
+
 ## Lifehacking tools
 
 * [The Ultimate Guide to Personal Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/#Personal-Kanban)
-* [Paparazzi!](https://derailer.org/paparazzi/) - take screenshots of web pages using webkit
 * [LICEcap](http://www.cockos.com/licecap/) - screen capture to gif
 * [Trello](https://trello.com/) - flexible, and visual way to organize anything with anyone
 * [Spectacle](http://spectacleapp.com/) - osx window manager
