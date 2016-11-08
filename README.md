@@ -28,6 +28,7 @@
 
 ## Accessibility
 
+* [Elinks](http://elinks.or.cz/) - full-featured text browser, install with ```brew install elinks```
 * [ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Some practical ARIA examples to enhance your application accessibility (by @heydonworks)
 * [Accessibility examples](http://www.oaa-accessibility.org/) - Examples using ARIA roles, properties and states
 * [WebAIM](http://webaim.org/articles/)
