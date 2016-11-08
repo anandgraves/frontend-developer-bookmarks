@@ -274,6 +274,7 @@ Get help and help others through several channels.
 
 ## Visual Design
 
+* [Color Claim](http://www.vanschneider.com/colors/) - large list of color combinations
 * [It's only color](https://robots.thoughtbot.com/Its-only-color)
 * [How to Create a Perfect Color Scheme [Infographic]](http://designmodo.com/create-color-scheme/)
 * [7 Rules for Creating Gorgeous UI (Part 1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
