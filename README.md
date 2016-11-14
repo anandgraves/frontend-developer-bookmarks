@@ -300,6 +300,8 @@ Get help and help others through several channels.
 
 ## Code Playground
 
+* [ESNext](https://esnextb.in/) - write ES2015 code and import modules from npm
+* [Babel ES6 repl](https://babeljs.io/repl/) - compiles ES6 to ES5
 * [TDD bin](http://tddbin.com/)
 * [CodePen](http://codepen.io/)
 * [JS Bin](http://jsbin.com/)
