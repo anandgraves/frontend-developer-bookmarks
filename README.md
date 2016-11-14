@@ -290,6 +290,7 @@ Get help and help others through several channels.
 
 ## Regular Expressions
 
+* [Regulex](https://jex.im/regulex/) - javascript regular expression visualizer
 * [RegExr](http://regexr.com/)- learn, build, & test regular expressions
 
 
