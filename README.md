@@ -239,6 +239,7 @@ Typography Tools
 
 ## WordPress
 
+* [Search and replace for WordPress databases](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/)
 * [Sage](https://roots.io/sage/) - wordpress starter theme
 * [Using Sage/Roots 8.0.0](https://www.youtube.com/watch?v=F6U4GcCRFp0) - presentation (youtube)
 * [Bedrock](https://roots.io/bedrock/) - WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure
