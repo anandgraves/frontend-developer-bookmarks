@@ -349,6 +349,7 @@ Get help and help others through several channels.
 * [z](https://github.com/rupa/z) - cd into most used directories
 * [Launch an OS X Terminal Window from the Finder](http://lifehacker.com/launch-an-os-x-terminal-window-from-a-specific-folder-1466745514)
 * [Pandoc](http://pandoc.org/) - universal document converter
+* [Evernote Backup](https://github.com/jamietr1/evernote-backup)
 
 
 ## Markdown
