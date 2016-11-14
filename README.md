@@ -79,6 +79,7 @@
 
 ## ES6
 
+* [Nodeschool.io - learn ES6](https://github.com/domenic/count-to-6) - An intro to some ES6 features via a set of self-guided workshops
 * [Painless ES6 workflow with Atom](https://om12net.wordpress.com/2015/06/23/painless-es6-workflow-with-atom/)
 * [ESNext](https://esnextb.in/) - write ES2015 code and import modules from npm
 * [Babel ES6 repl](https://babeljs.io/repl/) - compiles ES6 to ES5
