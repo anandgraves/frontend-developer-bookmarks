@@ -79,6 +79,7 @@
 
 ## ES6
 
+* [ESNext](https://esnextb.in/) - write ES2015 code and import modules from npm
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
 * [ES6 Katas](http://es6katas.org/) - learn ES6 by fixing failing tests. [Read the article about ES6 katas](http://www.uxebu.com/index.html%3Fp=6883.html).
 
