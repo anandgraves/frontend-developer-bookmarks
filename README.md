@@ -498,6 +498,7 @@ Get help and help others through several channels.
 
 ## Lifehacking tools
 
+* [Nativefier](https://github.com/jiahaog/nativefier) - make any web page a desktop application
 * [The Ultimate Guide to Personal Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/#Personal-Kanban)
 * [LICEcap](http://www.cockos.com/licecap/) - screen capture to gif
 * [Trello](https://trello.com/) - flexible, and visual way to organize anything with anyone
