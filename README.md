@@ -195,6 +195,7 @@
   * [Parker](https://github.com/katiefenn/parker) - a stylesheet analysis tool that runs metrics on your stylesheets and will report on their complexity
 
 ### Guidelines
+  * [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)
   * [css {guide: lines;}](http://cssguidelin.es/)
   * [Sass Guidelines](http://sass-guidelin.es/)
   * [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/)
