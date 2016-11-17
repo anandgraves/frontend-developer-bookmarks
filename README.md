@@ -382,6 +382,7 @@ Get help and help others through several channels.
 
 ## Security
 
+* [OverSight](https://objective-see.com/products/oversight.html) - alerts the user when the internal mic is activated, or whenever a process accesses the webcam
 * [The target="_blank" vulnerability by example](https://dev.to/ben/the-targetblank-vulnerability-by-example)
 * [Things to Know (and Potential Dangers) with Third-Party Scripts](https://css-tricks.com/potential-dangers-of-third-party-javascript/)
 * [A practical guide to securing OS X](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
