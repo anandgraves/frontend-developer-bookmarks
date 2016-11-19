@@ -406,6 +406,11 @@ Get help and help others through several channels.
 * [Tresorit](https://tresorit.com/) - encrypted cloud storage
 
 
+## Privacy
+
+* [Browser fingerprints, and why they are so hard to erase](http://www.networkworld.com/article/2884026/security0/browser-fingerprints-and-why-they-are-so-hard-to-erase.html
+
+
 ## Browsers
 
 * [DevTools - Google Developers](https://developers.google.com/web/updates/devtools/?hl=en	)
