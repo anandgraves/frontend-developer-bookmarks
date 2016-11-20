@@ -4,9 +4,10 @@
 ## Project ideal scenarios
 
 * **Content-first approach**  
-  _Reality_: content is always last, the (visual/responsive) design/cms doesn't fit the content and things need to change. More costs/frustration as a result.
-  ** [Designing Content-First for a Better UX](https://gathercontent.com/blog/designing-content-first-for-a-better-ux)
-  ** [Steph Hay - Content-first UX Design](https://vimeo.com/119859080)
+  _Reality_: content is always last, the (visual/responsive) design/cms doesn't fit the content and things need to change. More costs/frustration as a result.  
+  
+  [Designing Content-First for a Better UX](https://gathercontent.com/blog/designing-content-first-for-a-better-ux)  
+  [Steph Hay - Content-first UX Design](https://vimeo.com/119859080)
 * **No unnecessary deadlines**  
   _Reality_: sometimes the client demands a certain deadline just because they can. This results in bad code (bad maintainability), more bugs and more frustration.
 
