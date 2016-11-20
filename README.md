@@ -1,6 +1,14 @@
 # Frontend Developer Bookmarks
 
 
+## Project ideal scenarios
+
+* Content-first approach. 
+  Reality: content is always last, the (visual/responsive) design/cms doesn't fit the content and things need to change. More costs/frustration as a result.
+* No unnecessary deadlines.
+  Reality: sometimes the client demands a certain deadline just because they can. This results in bad code (bad maintainability), more bugs and more frustration.
+
+
 ## General
 
 * [A Pragmatic Quick Reference](https://blog.codinghorror.com/a-pragmatic-quick-reference/)
