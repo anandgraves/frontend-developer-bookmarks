@@ -371,13 +371,6 @@ Get help and help others through several channels.
 * [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables)
 
 
-## Editors
-
-* [Atom](https://atom.io/)
-* [Sublime Text](http://www.sublimetext.com/)
-* [Prose](http://prose.io) - github content editor
-
-
 ## Sublime Text 3 Plugins
 
 * [Package Control](https://packagecontrol.io/installation)
