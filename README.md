@@ -52,7 +52,6 @@
 ``` 
 apm install atom-beautify \
 file-icons \
-imdone-atom \
 linter \
 linter-php \
 linter-js-standard \
