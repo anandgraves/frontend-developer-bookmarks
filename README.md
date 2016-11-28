@@ -46,6 +46,29 @@
 * [WebAIM](http://webaim.org/articles/)
 
 
+## Atom Plugins
+
+* Install list of Atom plugins (https://github.com/mehcode/awesome-atom)
+``` 
+apm install atom-beautify \
+linter \
+linter-php \
+linter-js-standard \
+advanced-open-file \
+code-peek \
+hyperclick \
+js-hyperclick \
+hyperclick-php \
+toggle-quotes \
+atom-ternjs \
+autocomplete-modules \
+auto-update-packages \
+autocomplete-php \
+emmet \
+pigments
+```
+
+
 ## Progressive Enhancement
 
 * [Rendering Done Right](https://github.com/jbmoelker/presentations/blob/master/enhance-your-html-2016-08.pdf)
