@@ -51,6 +51,7 @@
 * Install list of Atom plugins (https://github.com/mehcode/awesome-atom)
 ``` 
 apm install atom-beautify \
+file-icons \
 linter \
 linter-php \
 linter-js-standard \
