@@ -520,6 +520,7 @@ Get help and help others through several channels.
 
 ## Lifehacking tools
 
+* Go paperless with the [Doxie One](http://www.getdoxie.com/product/one/) and [Evernote](https://evernote.com/)
 * [Nativefier](https://github.com/jiahaog/nativefier) - make any web page a desktop application
 * [The Ultimate Guide to Personal Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/#Personal-Kanban)
 * [LICEcap](http://www.cockos.com/licecap/) - screen capture to gif
@@ -529,7 +530,6 @@ Get help and help others through several channels.
 * [Awareness](http://iamfutureproof.com/tools/awareness/) - subtle awareness of time spent on the computer
 * [How a password changed my life](https://medium.com/@manicho/how-a-password-changed-my-life-7af5d5f28038)
 * [Toggl](https://toggl.com/) - time tracker for desktop and mobile
-* [Evernote](https://evernote.com/)
 * [F.lux](https://justgetflux.com/)
 
 
