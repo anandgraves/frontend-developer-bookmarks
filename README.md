@@ -73,6 +73,7 @@ pigments
 
 ## Progressive Enhancement
 
+* [Using progressive enhancement (gov.uk)](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 * [Rendering Done Right](https://github.com/jbmoelker/presentations/blob/master/enhance-your-html-2016-08.pdf)
 * [Stop Breaking the Web](https://ponyfoo.com/articles/stop-breaking-the-web)
 * [Where to start?](https://adactio.com/journal/9963) - Server-side rendering as the default and client-side rendering as an enhancement.
