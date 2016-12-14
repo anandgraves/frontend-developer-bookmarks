@@ -170,6 +170,7 @@ pigments
 
 ## Functional Programming
 
+* [Brian Lonsdorf - Oh Composable World! (youtube)](https://www.youtube.com/watch?v=SfWR3dKnFIo)
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 * [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
