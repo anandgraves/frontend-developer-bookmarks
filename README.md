@@ -1,15 +1,18 @@
 # Frontend Developer Bookmarks
 
 
-## Project ideal scenarios
+## Project approaches
 
 * **Content-first approach**  
-  _Reality_: content is always last, the (visual/responsive) design/cms doesn't fit the content and things need to change. More costs/frustration as a result.  
-  
+  UX/Visual Designer should work together with the content creator to create a visual design.
   [Designing Content-First for a Better UX](https://gathercontent.com/blog/designing-content-first-for-a-better-ux)  
   [Steph Hay - Content-first UX Design](https://vimeo.com/119859080)
-* **No unnecessary deadlines**  
-  _Reality_: sometimes the client demands a certain deadline just because they can. This results in bad code (bad maintainability), more bugs and more frustration.
+* ** Always mobile first for responsive design**
+  Even when there is no visual design for smaller devices than desktop.
+* ** Create reusable responsive components instead of pages**
+  * [From Pages to Patterns: An Exercise for Everyone
+](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone) - build components instead of pages
+* **No unnecessary deadlines**
 
 
 ## General
