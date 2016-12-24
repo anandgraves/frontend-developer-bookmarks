@@ -206,6 +206,8 @@ pigments
 
 ## CSS
 
+* [Auticons](http://heydonworks.com/auticons-icon-font/) - a clever way to use icons with attribute selectors
+
 ### Future
  * [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
  * [`font-display` for the Masses](https://css-tricks.com/font-display-masses/)
