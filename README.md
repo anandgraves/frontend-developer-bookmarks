@@ -207,6 +207,7 @@ pigments
 ## CSS
 
 * [Auticons](http://heydonworks.com/auticons-icon-font/) - a clever way to use icons with attribute selectors
+* [Difference between outline and border](https://stackoverflow.com/questions/1158515/difference-between-outline-and-border)
 
 ### Future
  * [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
