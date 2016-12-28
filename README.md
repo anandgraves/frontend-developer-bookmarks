@@ -376,6 +376,7 @@ Get help and help others through several channels.
 
 ## Performance
 
+* [Why our website is faster than yours](https://www.voorhoede.nl/en/blog/why-our-website-is-faster-than-yours/)
 * [PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)
 * [WebPageTest](http://www.webpagetest.org/)
 * [Yellow Lab Tools](http://yellowlab.tools/)
