@@ -31,7 +31,6 @@
 * [W3C Web Design & Application](https://www.w3.org/standards/webdesign/) - specifications for the core web technologies
 * [W3C Web APIs](https://www.w3.org/standards/webdesign/script) - overview of all the web api specs
 * [DevDocs](http://devdocs.io/) - css, dom, dom events, html, http, javascript, frameworks & libraries
-* [DevDogs](https://github.com/ragingwind/devdogs) - unofficial devdocs.io osx app
 * [What browser are you using?](http://www.whatsmybrowser.org/) - info is available on a unique url
 * [Gigantic list of Frontend developer bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [Libraries.io](https://libraries.io) - search in open source libraries
