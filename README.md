@@ -3,16 +3,16 @@
 
 ## Project approaches
 
-* **Content-first approach**  
+* Content-first approach 
   UX/Visual Designer should work together with the content creator to create a visual design.
   [Designing Content-First for a Better UX](https://gathercontent.com/blog/designing-content-first-for-a-better-ux)  
   [Steph Hay - Content-first UX Design](https://vimeo.com/119859080)
-* ** Always mobile first for responsive design**
+* Always mobile first for responsive design 
   Even when there is no visual design for smaller devices than desktop.
-* ** Create reusable responsive components instead of pages**
+* Create reusable responsive components instead of pages 
   * [From Pages to Patterns: An Exercise for Everyone
 ](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone) - build components instead of pages
-* **No unnecessary deadlines**
+* No unnecessary deadlines
 
 
 ## General
