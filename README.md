@@ -17,6 +17,8 @@
 
 ## General
 
+* [What to learn in 2017 if you’re a frontend developer](https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.kqhs6a2dg)
+* [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.3x1tbyrfv)
 * [A Pragmatic Quick Reference](https://blog.codinghorror.com/a-pragmatic-quick-reference/)
 * [Enki](https://enki.com/) - the 5-minute daily workout for your dev skills
 * [Front-end Conferences (video)](https://github.com/dmytroyarmak/frontend-dev-resources#conferences)
@@ -26,7 +28,6 @@
 * [The Fallacy of Keeping Up](https://timkadlec.com/2015/09/the-fallacy-of-keeping-up/)
 * [What is a programming language?](http://pgbovine.net/what-is-a-programming-language.htm)
 * [Front-end Handbook](http://www.frontendhandbook.com/)
-* [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 * [W3C Web Design & Application](https://www.w3.org/standards/webdesign/) - specifications for the core web technologies
 * [W3C Web APIs](https://www.w3.org/standards/webdesign/script) - overview of all the web api specs
 * [DevDocs](http://devdocs.io/) - css, dom, dom events, html, http, javascript, frameworks & libraries
@@ -114,6 +115,11 @@ pigments
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [HTML5 Please](http://html5please.com/) - search for polyfills
 * [JSON Visualization](http://chris.photobooks.com/json/)
+
+
+## Promises
+
+* [Promisees](http://bevacqua.github.io/promisees/) - Promise visualization playground for the adventurous
 * [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 * [JavaScript Promises - Udacity](https://www.udacity.com/course/javascript-promises--ud898)
 
