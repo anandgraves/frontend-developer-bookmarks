@@ -413,6 +413,7 @@ Get help and help others through several channels.
 
 ## Security
 
+* [Browser autofill used to steal personal details in new phishing attack](https://www.theguardian.com/technology/2017/jan/10/browser-autofill-used-to-steal-personal-details-in-new-phising-attack-chrome-safari)
 * [OverSight](https://objective-see.com/products/oversight.html) - alerts the user when the internal mic is activated, or whenever a process accesses the webcam
 * [Phishing via JavaScript Google this time not PayPal](https://myonlinesecurity.co.uk/phishing-via-javascript-google-this-time-not-paypal/) - Also see this [tweet](https://twitter.com/tomscott/status/812268998742118400)
 * [The target="_blank" vulnerability by example](https://dev.to/ben/the-targetblank-vulnerability-by-example)
