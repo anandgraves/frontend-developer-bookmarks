@@ -55,6 +55,7 @@
 ``` 
 apm install atom-beautify \
 merge-conflicts \
+expand-selection-to-quotes \
 file-icons \
 linter \
 linter-php \
