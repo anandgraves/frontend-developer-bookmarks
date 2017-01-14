@@ -99,6 +99,7 @@ pigments
 
 ## JavaScript
 
+* [querySelectorAll from an element probably doesn't do what you think it does](https://www.lvh.io/posts/queryselectorall-from-an-element-probably-doesnt-do-what-you-think-it-does.html)
 * [What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.iv5md8utb) - Class inheritance has the fragile bass class problem. Favor composition over inheritance.
 * [JavaScript Guiding Principles](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.fdgg9w4td)
 * [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html)
