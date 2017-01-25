@@ -448,6 +448,7 @@ Get help and help others through several channels.
 
 ## Browsers
 
+* [Command Line API Reference - Chrome Devtools](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 * [DevTools - Google Developers](https://developers.google.com/web/updates/devtools/?hl=en	)
 * [Browser stats](http://gs.statcounter.com/)
 * [Chromium Dashboard](https://www.chromestatus.com/features)
