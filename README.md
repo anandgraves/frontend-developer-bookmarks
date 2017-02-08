@@ -121,8 +121,8 @@ pigments
 
 ## Promises
 
-* [Promisees](http://bevacqua.github.io/promisees/) - Promise visualization playground for the adventurous
-* [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+* [Promisees](http://bevacqua.github.io/promisees/) - Promise visualization playground to understand how they work
+* [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - Very well written article to understand Promises.
 * [JavaScript Promises - Udacity](https://www.udacity.com/course/javascript-promises--ud898)
 
 
