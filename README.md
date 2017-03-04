@@ -211,6 +211,7 @@ pigments
 * [Input Type Sandbox](http://inputtypes.com/) - test onscreen keyboards, input types, patterns and attributes
 * [HTML Inspector](https://github.com/philipwalton/html-inspector)
 * [Unicode Character Table](http://unicode-table.com/en/)
+* [The Simplest (and Most Performant) Way to Offer Sharing Links for Social Media](https://css-tricks.com/simple-social-sharing-links/)
 
 
 ## CSS
