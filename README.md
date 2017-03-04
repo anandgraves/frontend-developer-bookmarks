@@ -419,19 +419,15 @@ Get help and help others through several channels.
 ## Security
 
 * [Browser autofill used to steal personal details in new phishing attack](https://www.theguardian.com/technology/2017/jan/10/browser-autofill-used-to-steal-personal-details-in-new-phising-attack-chrome-safari)
-* [OverSight](https://objective-see.com/products/oversight.html) - alerts the user when the internal mic is activated, or whenever a process accesses the webcam
 * [Phishing via JavaScript Google this time not PayPal](https://myonlinesecurity.co.uk/phishing-via-javascript-google-this-time-not-paypal/) - Also see this [tweet](https://twitter.com/tomscott/status/812268998742118400)
 * [The target="_blank" vulnerability by example](https://dev.to/ben/the-targetblank-vulnerability-by-example)
 * [Things to Know (and Potential Dangers) with Third-Party Scripts](https://css-tricks.com/potential-dangers-of-third-party-javascript/)
 * [A practical guide to securing OS X](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
-* [Alert when anything is persistently installed on OSX](https://objective-see.com/products/blockblock.html)
 * [Massive malvertising attack poisons 288 sites](https://nakedsecurity.sophos.com/2016/04/12/massive-malvertising-attack-poisons-288-sites/)
 * [360 million reasons to destroy all passwords](https://medium.freecodecamp.com/360-million-reasons-to-destroy-all-passwords-9a100b2b5001#.p6acc8usn) - going passwordless
 * [How To Kill The Password: Don't Ask For One](http://readwrite.com/2015/07/01/medium-passwordless-system)
 * [Passwordless](https://passwordless.net/)
 * [ProntonMail](https://protonmail.ch/) - encrypted email
-* [friends](https://github.com/moose-team/friends) - secured P2P chat
-* [hackerone](https://hackerone.com/) - use a community of hackers to find vulnerabilities in your app
 * [Chrome Extensions Going Rogue](https://chrisa.wordpress.com/2014/08/25/chrome-extensions-going-rogue/)
 
 
@@ -442,6 +438,8 @@ Get help and help others through several channels.
 * [Ricochet](https://ricochet.im/) - encrypted end-to-end chat on desktop using the tor network
 * [LastPass](https://lastpass.com/) - remote password manager
 * [Tresorit](https://tresorit.com/) - encrypted cloud storage
+* [Alert when anything is persistently installed on OSX](https://objective-see.com/products/blockblock.html)
+* [OverSight](https://objective-see.com/products/oversight.html) - alerts the user when the internal mic is activated, or whenever a process accesses the webcam
 
 
 ## Privacy
