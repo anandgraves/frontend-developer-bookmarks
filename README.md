@@ -396,6 +396,7 @@ Get help and help others through several channels.
 ## Terminal
 
 * [fzf](https://github.com/junegunn/fzf) - An extremely fast command-line fuzzy finder
+* [jid](https://github.com/simeji/jid) - json incremental digger
 * [Black Screen](https://github.com/shockone/black-screen) - A terminal emulator for the 21st century built with TypeScript, ReactJS and Electron
 * [tldr](https://github.com/tldr-pages/tldr) - Simplified and human readable community-driven man pages 
 * [ncdu](https://dev.yorhel.nl/ncdu/scr) - install with ```brew install ncdu```
