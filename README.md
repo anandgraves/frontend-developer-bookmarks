@@ -315,7 +315,7 @@ Typography Tools
 * [Sequence Diagrams](http://knsv.github.io/mermaid/live_editor/) - generate diagrams with Markdown like markup
 * [Web Sequence Diagrams](https://www.websequencediagrams.com/) - generate diagrams with a gui
 * [URL encoder/decoder](https://mothereff.in/url)
-* [ShareDrop](https://www.sharedrop.io/) - p2p file transfer in the browser with WebRTC
+* [Droppub](https://github.com/mikeal/dropub) - P2P publishing for everyone
 * [surge.sh](https://surge.sh/) - static web publishing
 for front-end developers
 * [srvdir](https://www.srvdir.net/) - make any directory a secure public https file server in one command
