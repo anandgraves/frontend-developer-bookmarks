@@ -99,6 +99,7 @@ pigments
 
 ## JavaScript
 
+* [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Dom4](http://webreflection.github.io/dom4/) - a fully tested and covered polyfill for new DOM Level 4 entries
 * [querySelectorAll from an element probably doesn't do what you think it does](https://www.lvh.io/posts/queryselectorall-from-an-element-probably-doesnt-do-what-you-think-it-does.html)
 * [What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.iv5md8utb) - Class inheritance has the fragile bass class problem. Favor composition over inheritance.
@@ -418,6 +419,7 @@ Get help and help others through several channels.
 
 ## Security
 
+* [Majority of Android VPNs can’t be trusted to make users more secure](https://arstechnica.com/security/2017/01/majority-of-android-vpns-cant-be-trusted-to-make-users-more-secure/)
 * [Browser autofill used to steal personal details in new phishing attack](https://www.theguardian.com/technology/2017/jan/10/browser-autofill-used-to-steal-personal-details-in-new-phising-attack-chrome-safari)
 * [Phishing via JavaScript Google this time not PayPal](https://myonlinesecurity.co.uk/phishing-via-javascript-google-this-time-not-paypal/) - Also see this [tweet](https://twitter.com/tomscott/status/812268998742118400)
 * [The target="_blank" vulnerability by example](https://dev.to/ben/the-targetblank-vulnerability-by-example)
@@ -444,6 +446,7 @@ Get help and help others through several channels.
 
 ## Privacy
 
+* [What should you think about when using Facebook?](http://veekaybee.github.io/facebook-is-collecting-this/)
 * [Browser fingerprints, and why they are so hard to erase](http://www.networkworld.com/article/2884026/security0/browser-fingerprints-and-why-they-are-so-hard-to-erase.html
 
 
