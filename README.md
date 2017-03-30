@@ -546,6 +546,12 @@ Get help and help others through several channels.
 
 
 
+## Privacy
+
+* [Privacy Tools](https://privacytoolsio.github.io/privacytools.io/)
+
+
+
 ## Lifehacking tools
 
 * Go paperless with the [Doxie One](http://www.getdoxie.com/product/one/) and [Evernote](https://evernote.com/)
