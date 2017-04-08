@@ -139,6 +139,7 @@ pigments
 
 ## JavaScript Libraries
 
+* [localForage](https://github.com/localForage/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API
 * [Flow](https://flowtype.org/) - Adds static typing to JavaScript to improve developer productivity and code quality.
 * [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
 * [Font Face Observer](https://fontfaceobserver.com/) -  fast and simple promised based web font loader
@@ -231,6 +232,9 @@ pigments
   * [Write CSS in specificity order](https://www.youtube.com/watch?v=1OKZOV-iLj4&hd=1) - harry roberts talk on managing css projects with itcss
   * [Measuring and sizing UIs, 2011-style (and beyond)](http://csswizardry.com/2011/12/measuring-and-sizing-uis-2011-style/)
   * [CSS background image hacks](http://nicolasgallagher.com/css-background-image-hacks/)
+
+### Animations
+* [animista](http://animista.net/) - a wide set of css animations examples with preview/code
 
 ### Flexbox
   * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - css-tricks.com
@@ -512,6 +516,7 @@ Get help and help others through several channels.
 
 ## Dummy content
 
+* [faker.js](https://github.com/marak/faker.js) - https://github.com/marak/faker.js
 * [Pexels](https://www.pexels.com/) - free stock photos
 * [picjumbo](https://picjumbo.com/) - free stock photos
 * [LittleIpsum](https://itunes.apple.com/us/app/littleipsum/id405772121?mt=12) - quickly copy/paste lorem ipsum sentences/paragraphs
@@ -565,6 +570,11 @@ Get help and help others through several channels.
 * [How a password changed my life](https://medium.com/@manicho/how-a-password-changed-my-life-7af5d5f28038)
 * [Toggl](https://toggl.com/) - time tracker for desktop and mobile
 * [F.lux](https://justgetflux.com/)
+
+
+## Misc
+
+* [Etcher](https://etcher.io/) - Burn images to SD cards & USB drives, safe & easy
 
 
 ## Content
