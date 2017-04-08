@@ -140,6 +140,7 @@ pigments
 ## JavaScript Libraries
 
 * [localForage](https://github.com/localForage/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API
+* [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases
 * [Flow](https://flowtype.org/) - Adds static typing to JavaScript to improve developer productivity and code quality.
 * [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
 * [Font Face Observer](https://fontfaceobserver.com/) -  fast and simple promised based web font loader
@@ -360,14 +361,17 @@ Get help and help others through several channels.
 * [RegExr](http://regexr.com/)- learn, build, & test regular expressions
 
 
-## Code Playground
+## Code Playground/Sharing
 
 * [ESNext](https://esnextb.in/) - write ES2015 code and import modules from npm
+* [RequireBin](http://requirebin.com/) - npm and browserify
 * [Babel ES6 repl](https://babeljs.io/repl/) - compiles ES6 to ES5
 * [TDD bin](http://tddbin.com/)
 * [CodePen](http://codepen.io/)
 * [JS Bin](http://jsbin.com/)
 * [repl.it](http://repl.it/) - terminal emulator and code editor for multiple languages
+* [PrivateBin](https://privatebin.net/) - minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
+* [Gist](https://gist.github.com/)
 
 
 ## Git
@@ -401,13 +405,14 @@ Get help and help others through several channels.
 ## Terminal
 
 * [fzf](https://github.com/junegunn/fzf) - An extremely fast command-line fuzzy finder
+* [the silver searcher](https://github.com/ggreer/the_silver_searcher) - fast code-searching tool
 * [jid](https://github.com/simeji/jid) - json incremental digger
 * [Black Screen](https://github.com/shockone/black-screen) - A terminal emulator for the 21st century built with TypeScript, ReactJS and Electron
 * [tldr](https://github.com/tldr-pages/tldr) - Simplified and human readable community-driven man pages 
 * [ncdu](https://dev.yorhel.nl/ncdu/scr) - install with ```brew install ncdu```
 * [youtube-dl](http://rg3.github.io/youtube-dl/) - download videos from a large list of popular sites
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
-* [trash](https://github.com/sindresorhus/trash) - safer alternative to `rm` by moving files and directories to the trash. Use [osx-trash](https://github.com/sindresorhus/osx-trash) on OSX.
+* [trash](https://github.com/sindresorhus/trash) - safer alternative to `rm` by moving files and directories to the trash. Use [osx-trash](https://github.com/sindresorhus/osx-trash) on Mac.
 * [iTerm2](http://iterm2.com/) - replacement for Terminal
 * [ranger](https://github.com/hut/ranger) - text-based file manager which works like the column view in OS X’s Finder
 * [z](https://github.com/rupa/z) - cd into most used directories
@@ -425,6 +430,9 @@ Get help and help others through several channels.
 
 ## Security
 
+* [Observatory](https://observatory.mozilla.org/) -  scans a site for security to configure it safely and securely
+* [Cipherli.st](https://cipherli.st/) - Strong Ciphers for servers and other software
+* [Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
 * [Majority of Android VPNs can’t be trusted to make users more secure](https://arstechnica.com/security/2017/01/majority-of-android-vpns-cant-be-trusted-to-make-users-more-secure/)
 * [Browser autofill used to steal personal details in new phishing attack](https://www.theguardian.com/technology/2017/jan/10/browser-autofill-used-to-steal-personal-details-in-new-phising-attack-chrome-safari)
 * [Phishing via JavaScript Google this time not PayPal](https://myonlinesecurity.co.uk/phishing-via-javascript-google-this-time-not-paypal/) - Also see this [tweet](https://twitter.com/tomscott/status/812268998742118400)
@@ -452,6 +460,7 @@ Get help and help others through several channels.
 
 ## Privacy
 
+* [PrivateBin](https://privatebin.net/) - minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
 * [What should you think about when using Facebook?](http://veekaybee.github.io/facebook-is-collecting-this/)
 * [Browser fingerprints, and why they are so hard to erase](http://www.networkworld.com/article/2884026/security0/browser-fingerprints-and-why-they-are-so-hard-to-erase.html
 
