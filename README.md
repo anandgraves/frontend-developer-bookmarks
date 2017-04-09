@@ -17,6 +17,8 @@
 
 ## General
 
+* [Pragmatic Programmer Reference](https://blog.codinghorror.com/a-pragmatic-quick-reference/)
+* [Software licenses in plain English](https://tldrlegal.com/)
 * [What to learn in 2017 if you’re a frontend developer](https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.kqhs6a2dg)
 * [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.3x1tbyrfv)
 * [A Pragmatic Quick Reference](https://blog.codinghorror.com/a-pragmatic-quick-reference/)
@@ -380,6 +382,7 @@ Get help and help others through several channels.
 * [A beginner's guide to GIT BISECT - The process of elimination](http://www.metaltoad.com/blog/beginners-guide-git-bisect-process-elimination)
 * [first aid git](http://firstaidgit.io/) - searchable collection of the most frequently asked Git questions
 * [Pro Git](https://progit.org/) - an online open source book
+* [Cleanly Handling a Fork on GitHub](http://www.xanthir.com/b4hf0)
 
 
 ## NPM
@@ -537,6 +540,7 @@ Get help and help others through several channels.
 
 ## Blogs
 
+* [Eric Elliott](https://medium.com/@_ericelliott)
 * [Gleb Bahmutov](https://glebbahmutov.com/blog/)
 * [Nicolas Gallagher](http://nicolasgallagher.com/)
 * [David Walsh](http://davidwalsh.name/)
@@ -579,6 +583,7 @@ Get help and help others through several channels.
 * [How a password changed my life](https://medium.com/@manicho/how-a-password-changed-my-life-7af5d5f28038)
 * [Toggl](https://toggl.com/) - time tracker for desktop and mobile
 * [F.lux](https://justgetflux.com/)
+* [MacOS QuickLook for Markdown files](https://twitter.com/MrRio/status/784841830991007744/photo/1)
 
 
 ## Misc
