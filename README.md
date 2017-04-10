@@ -270,6 +270,7 @@ pigments
 
 ### Miscellaneous
   * **[CSS Reference](http://tympanus.net/codrops/css_reference/)**
+  * [cssreference.io](http://cssreference.io/) - learn by visual examples
   * [Decorative Text Underline](https://codepen.io/jonneal/pen/PzGYEE?editors=0100)
   * [currentColor](https://css-tricks.com/currentcolor/) - [issues in browsers](http://stackoverflow.com/a/16560019)
   * [Vendor-prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview/)
@@ -293,6 +294,7 @@ pigments
 
 ## Typography
 
+* [Practical Typography](http://practicaltypography.com/)
 * [Typography Cheatsheet](https://www.typewolf.com/cheatsheet) - comprehensive guide to using proper typographic characters, including correct grammatical usage
 * [Hack](http://sourcefoundry.org/hack/) - an open source typeface designed for source code
 * [Google Web Font inspiration in HTML & CSS](http://tobiasahlin.com/typesource/)
@@ -335,6 +337,8 @@ for front-end developers
 * [cdnjs.com](https://cdnjs.com/) - cdn for js, css, images, icon fonts, etc.
 * [Polyfill Service](https://cdn.polyfill.io) - [An easier way of using polyfills](https://hacks.mozilla.org/2014/11/an-easier-way-of-using-polyfills/)
 * [Cloudflare](https://www.cloudflare.com/)
+* [httpstat.us](http://httpstat.us/) - service for generating different HTTP codes
+* [mockAPI](http://www.mockapi.io/) - generate custom data, and preform operations on it using RESTful interface and is meant to be used as a prototyping/testing/learning tool
 
 
 ## Community
@@ -541,6 +545,7 @@ Get help and help others through several channels.
 ## Blogs
 
 * [Eric Elliott](https://medium.com/@_ericelliott)
+* [Pony Foo](ponyfoo.com)
 * [Gleb Bahmutov](https://glebbahmutov.com/blog/)
 * [Nicolas Gallagher](http://nicolasgallagher.com/)
 * [David Walsh](http://davidwalsh.name/)
