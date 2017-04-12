@@ -29,7 +29,7 @@
 ](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone) - build components instead of pages
 * [The Fallacy of Keeping Up](https://timkadlec.com/2015/09/the-fallacy-of-keeping-up/)
 * [What is a programming language?](http://pgbovine.net/what-is-a-programming-language.htm)
-* [Front-end Handbook](http://www.frontendhandbook.com/)
+* [Front-end Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 * [W3C Web Design & Application](https://www.w3.org/standards/webdesign/) - specifications for the core web technologies
 * [W3C Web APIs](https://www.w3.org/standards/webdesign/script) - overview of all the web api specs
 * [DevDocs](http://devdocs.io/) - css, dom, dom events, html, http, javascript, frameworks & libraries
