@@ -534,6 +534,7 @@ Get help and help others through several channels.
 ## Dummy content
 
 * [faker.js](https://github.com/marak/faker.js) - https://github.com/marak/faker.js
+* [Awesome images](https://github.com/heyalexej/awesome-images) - list of amazingly awesome free (stock) photo resources 
 * [Pexels](https://www.pexels.com/) - free stock photos
 * [picjumbo](https://picjumbo.com/) - free stock photos
 * [LittleIpsum](https://itunes.apple.com/us/app/littleipsum/id405772121?mt=12) - quickly copy/paste lorem ipsum sentences/paragraphs
