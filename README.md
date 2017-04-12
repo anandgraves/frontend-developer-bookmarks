@@ -411,6 +411,7 @@ Get help and help others through several channels.
 
 ## Terminal
 
+* [explain shell](https://explainshell.com/)
 * [fzf](https://github.com/junegunn/fzf) - An extremely fast command-line fuzzy finder
 * [the silver searcher](https://github.com/ggreer/the_silver_searcher) - fast code-searching tool
 * [jid](https://github.com/simeji/jid) - json incremental digger
