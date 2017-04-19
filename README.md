@@ -122,6 +122,13 @@ pigments
 * [JSON Visualization](http://chris.photobooks.com/json/)
 
 
+## ES6 / ES2015
+
+* [ES6 in Depth](https://ponyfoo.com/articles/tagged/es6-in-depth) - A twenty-four article-long series of pragmatic articles
+* [Practical ES6](https://ponyfoo.com/books/practical-es6/) - a free ebook that focuses on modularity and ES6 features
+* [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20&%20beyond)
+
+
 ## Promises
 
 * [Promisees](http://bevacqua.github.io/promisees/) - Promise visualization playground to understand how they work
