@@ -389,6 +389,7 @@ Get help and help others through several channels.
 
 ## Git
 
+* [Oh shit, git!](http://ohshitgit.com/)
 * [How To Find Bugs Using Git Bisect With This Easy Guide](http://www.marclittlemore.com/posts/how-to-find-bugs-using-git-bisect-with-this-easy-guide/)
 * [A beginner's guide to GIT BISECT - The process of elimination](http://www.metaltoad.com/blog/beginners-guide-git-bisect-process-elimination)
 * [first aid git](http://firstaidgit.io/) - searchable collection of the most frequently asked Git questions
