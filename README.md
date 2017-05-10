@@ -465,13 +465,13 @@ Get help and help others through several channels.
 
 ### Security Apps
 
+* [Free OS X Security Tools from Objective-See](https://objective-see.com/products/oversight.html)
 * [ProtonMail](https://protonmail.com/) - encrypted email service using double passwords based in switzerland
 * [Threema](https://threema.ch/en) - encrypted end-to-end mobile messenger
 * [Ricochet](https://ricochet.im/) - encrypted end-to-end chat on desktop using the tor network
 * [LastPass](https://lastpass.com/) - remote password manager
 * [Tresorit](https://tresorit.com/) - encrypted cloud storage
 * [Alert when anything is persistently installed on OSX](https://objective-see.com/products/blockblock.html)
-* [OverSight](https://objective-see.com/products/oversight.html) - alerts the user when the internal mic is activated, or whenever a process accesses the webcam
 
 
 ## Privacy
