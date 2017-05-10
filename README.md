@@ -541,6 +541,7 @@ Get help and help others through several channels.
 
 ## Dummy content
 
+* [https://lists.design/](Lists) - A gallery of real data ready to be placed in your design
 * [faker.js](https://github.com/marak/faker.js) - https://github.com/marak/faker.js
 * [Awesome images](https://github.com/heyalexej/awesome-images) - list of amazingly awesome free (stock) photo resources 
 * [Pexels](https://www.pexels.com/) - free stock photos
