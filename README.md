@@ -465,7 +465,7 @@ Get help and help others through several channels.
 
 ### Security Apps
 
-* [Free OS X Security Tools from Objective-See](https://objective-see.com/products/oversight.html)
+* [Free OS X Security Tools from Objective-See](https://objective-see.com/products.html)
 * [ProtonMail](https://protonmail.com/) - encrypted email service using double passwords based in switzerland
 * [Threema](https://threema.ch/en) - encrypted end-to-end mobile messenger
 * [Ricochet](https://ricochet.im/) - encrypted end-to-end chat on desktop using the tor network
