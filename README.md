@@ -235,6 +235,7 @@ pigments
  * [`font-display` for the Masses](https://css-tricks.com/font-display-masses/)
 
 ### Articles/Presentations/Video
+  * [Aligning Text Smartly in CSS](http://nocode.in/aligning-text-smartly-in-css/)
   * [@font-face tip: define font-weight and font-style to keep your CSS simple](http://www.456bereastreet.com/archive/201012/font-face_tip_define_font-weight_and_font-style_to_keep_your_css_simple/)
   * [Setting Weights And Styles With The @font-face Declaration](https://www.smashingmagazine.com/2013/02/setting-weights-and-styles-at-font-face-declaration/)
   * [Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
