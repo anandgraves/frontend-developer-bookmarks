@@ -188,43 +188,6 @@ pigments
 * [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 
-## Functional Programming
-
-* [Brian Lonsdorf - Oh Composable World! (youtube)](https://www.youtube.com/watch?v=SfWR3dKnFIo)
-* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
-* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
-* [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
-* [Functional Programming in PHP](https://www.simonholywell.com/static/slides/2014-02-12/)
-
-
-## PHP
-
-* [Tilde and caret version constraints in Composer](https://blog.madewithlove.be/post/tilde-and-caret-constraints/)
-
-
-## Responsive Design
-
-* [PX, EM or REM Media Queries?](http://zellwk.com/blog/media-query-units/)
-* [Google Resizer](http://design.google.com/resizer/)
-* [Responsive Images 101](http://blog.cloudfour.com/responsive-images-101-definitions/) - 10 articles about responsive images
-* [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
-* [Intrinsic ratios](http://alistapart.com/article/creating-intrinsic-ratios-for-video)
-* [Viewport Sizes](http://viewportsizes.com/)
-
-
-## HTML
-
-* [HTML element reference (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-* [Dive into HTML5](http://diveintohtml5.info/)
-* [Don't use only h1 elements](https://www.w3.org/wiki/HTML/Usage/Headings/h1only)
-* [A list of everything that could go in the head of your document](http://gethead.info/)
-* [Check Unicode support for browsers and devices](http://unicode.johnholtripley.co.uk/all/)
-* [Input Type Sandbox](http://inputtypes.com/) - test onscreen keyboards, input types, patterns and attributes
-* [HTML Inspector](https://github.com/philipwalton/html-inspector)
-* [Unicode Character Table](http://unicode-table.com/en/)
-* [The Simplest (and Most Performant) Way to Offer Sharing Links for Social Media](https://css-tricks.com/simple-social-sharing-links/)
-
-
 ## CSS
 
 * [Auticons](http://heydonworks.com/auticons-icon-font/) - a clever way to use icons with attribute selectors
@@ -285,6 +248,45 @@ pigments
   * [Style Guide Resources](http://styleguides.io/)
   * [Pure CSS loading animations](http://connoratherton.com/loaders)
   * [How to center in CSS](http://howtocenterincss.com/)
+
+
+
+
+## Functional Programming
+
+* [Brian Lonsdorf - Oh Composable World! (youtube)](https://www.youtube.com/watch?v=SfWR3dKnFIo)
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+* [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
+* [Functional Programming in PHP](https://www.simonholywell.com/static/slides/2014-02-12/)
+
+
+## PHP
+
+* [Tilde and caret version constraints in Composer](https://blog.madewithlove.be/post/tilde-and-caret-constraints/)
+
+
+## Responsive Design
+
+* [PX, EM or REM Media Queries?](http://zellwk.com/blog/media-query-units/)
+* [Google Resizer](http://design.google.com/resizer/)
+* [Responsive Images 101](http://blog.cloudfour.com/responsive-images-101-definitions/) - 10 articles about responsive images
+* [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
+* [Intrinsic ratios](http://alistapart.com/article/creating-intrinsic-ratios-for-video)
+* [Viewport Sizes](http://viewportsizes.com/)
+
+
+## HTML
+
+* [HTML element reference (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [Dive into HTML5](http://diveintohtml5.info/)
+* [Don't use only h1 elements](https://www.w3.org/wiki/HTML/Usage/Headings/h1only)
+* [A list of everything that could go in the head of your document](http://gethead.info/)
+* [Check Unicode support for browsers and devices](http://unicode.johnholtripley.co.uk/all/)
+* [Input Type Sandbox](http://inputtypes.com/) - test onscreen keyboards, input types, patterns and attributes
+* [HTML Inspector](https://github.com/philipwalton/html-inspector)
+* [Unicode Character Table](http://unicode-table.com/en/)
+* [The Simplest (and Most Performant) Way to Offer Sharing Links for Social Media](https://css-tricks.com/simple-social-sharing-links/)
 
 
 ## SVG
