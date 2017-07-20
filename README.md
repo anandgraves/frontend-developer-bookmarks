@@ -135,6 +135,7 @@ pigments
 * [Promisees](http://bevacqua.github.io/promisees/) - Promise visualization playground to understand how they work
 * [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - Very well written article to understand Promises.
 * [JavaScript Promises - Udacity](https://www.udacity.com/course/javascript-promises--ud898)
+* [JavaScript Promises 101](https://bitsofco.de/javascript-promises-101/)
 
 
 ## ES6
@@ -267,6 +268,7 @@ pigments
 * [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
 * [RamdaJS](http://ramdajs.com/) - A practical functional library for JavaScript programmers
 * [Type Signatures](https://github.com/ramda/ramda/wiki/Type-Signatures)
+* [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
 
 
 ## Responsive Design
@@ -308,6 +310,8 @@ pigments
 
 ## Typography
 
+* [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
+* [Typography for Developers](https://csswizardry.com/2017/02/typography-for-developers/)
 * [Practical Typography](http://practicaltypography.com/)
 * [Typography Cheatsheet](https://www.typewolf.com/cheatsheet) - comprehensive guide to using proper typographic characters, including correct grammatical usage
 * [Hack](http://sourcefoundry.org/hack/) - an open source typeface designed for source code
