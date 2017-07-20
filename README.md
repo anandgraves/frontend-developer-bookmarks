@@ -21,7 +21,6 @@
 * [Software licenses in plain English](https://tldrlegal.com/)
 * [What to learn in 2017 if you’re a frontend developer](https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.kqhs6a2dg)
 * [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.3x1tbyrfv)
-* [A Pragmatic Quick Reference](https://blog.codinghorror.com/a-pragmatic-quick-reference/)
 * [Enki](https://enki.com/) - the 5-minute daily workout for your dev skills
 * [Front-end Conferences (video)](https://github.com/dmytroyarmak/frontend-dev-resources#conferences)
 * [Why I switched to Android after 7 years of iOS](https://joreteg.com/blog/why-i-switched-to-android)
@@ -101,6 +100,7 @@ pigments
 
 ## JavaScript
 
+* [Observing your web app](https://ericbidelman.tumblr.com/post/149032341876/observing-your-web-app) - a dozen+ examples of monitoring changes in a web applicatio
 * [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Dom4](http://webreflection.github.io/dom4/) - a fully tested and covered polyfill for new DOM Level 4 entries
 * [querySelectorAll from an element probably doesn't do what you think it does](https://www.lvh.io/posts/queryselectorall-from-an-element-probably-doesnt-do-what-you-think-it-does.html)
@@ -148,6 +148,9 @@ pigments
 
 ## JavaScript Libraries
 
+* [The Vanilla Javascript Repository](http://www.vanillalist.com/)
+* [npms](https://npms.io/) - A better and open source search for node packages
+* [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
 * [localForage](https://github.com/localForage/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API
 * [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases
 * [Flow](https://flowtype.org/) - Adds static typing to JavaScript to improve developer productivity and code quality.
@@ -199,6 +202,7 @@ pigments
 
 ### Articles/Presentations/Video
   * ['The Fab Four Technique'](https://codepen.io/thierry/pen/ZQgEoZ?editors=1100) - Responsive styles without media queries using calc, min-width, width and max-width
+  * [https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1](http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works)
   * [Aligning Text Smartly in CSS](http://nocode.in/aligning-text-smartly-in-css/)
   * [@font-face tip: define font-weight and font-style to keep your CSS simple](http://www.456bereastreet.com/archive/201012/font-face_tip_define_font-weight_and_font-style_to_keep_your_css_simple/)
   * [Setting Weights And Styles With The @font-face Declaration](https://www.smashingmagazine.com/2013/02/setting-weights-and-styles-at-font-face-declaration/)
