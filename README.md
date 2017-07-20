@@ -352,7 +352,8 @@ for front-end developers
 * [Polyfill Service](https://cdn.polyfill.io) - [An easier way of using polyfills](https://hacks.mozilla.org/2014/11/an-easier-way-of-using-polyfills/)
 * [Cloudflare](https://www.cloudflare.com/)
 * [httpstat.us](http://httpstat.us/) - service for generating different HTTP codes
-* [mockAPI](http://www.mockapi.io/) - generate custom data, and preform operations on it using RESTful interface and is meant to be used as a prototyping/testing/learning tool
+* [mockAPI](http://www.mockapi.io/docs) - generate custom data, and preform operations on it using RESTful interface and is meant to be used as a prototyping/testing/learning tool
+* [data: URI Generator](https://dopiaza.org/tools/datauri/index.php)
 
 
 ## Community
@@ -608,6 +609,12 @@ Get help and help others through several channels.
 * [Toggl](https://toggl.com/) - time tracker for desktop and mobile
 * [F.lux](https://justgetflux.com/)
 * [MacOS QuickLook for Markdown files](https://twitter.com/MrRio/status/784841830991007744/photo/1)
+
+
+## Mac OS
+
+* Grab - create screenshots (default installed)
+* Digital Color Meter - color picker (default installed)
 
 
 ## Misc
