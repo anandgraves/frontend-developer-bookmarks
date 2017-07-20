@@ -40,6 +40,7 @@
 * [U.S. Digital Services Playbook](https://playbook.cio.gov/)
 * [Site scan](https://dev.windows.com/en-us/microsoft-edge/tools/staticscan/) - run a quick code scan on any URL to check for out-of-date libraries, layout issues, and accessibility
 * [101 Ways to Make Your Website More Awesome](https://www.awesomeweb.com/blog/make-website-awesome)
+* [Asciiflow](http://www.asciidraw.com) - Draw ascii
 
 
 ## Accessibility
@@ -150,6 +151,7 @@ pigments
 
 * [The Vanilla Javascript Repository](http://www.vanillalist.com/)
 * [npms](https://npms.io/) - A better and open source search for node packages
+* [umbrellajs](https://umbrellajs.com/) - Tiny library ()3kb zipped) for DOM manipulation, events and AJAX
 * [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
 * [localForage](https://github.com/localForage/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API
 * [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases
@@ -263,12 +265,8 @@ pigments
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 * [Functional Programming](http://jhusain.github.io/learnrx/) - with interactive exercises
-* [Functional Programming in PHP](https://www.simonholywell.com/static/slides/2014-02-12/)
-
-
-## PHP
-
-* [Tilde and caret version constraints in Composer](https://blog.madewithlove.be/post/tilde-and-caret-constraints/)
+* [RamdaJS](http://ramdajs.com/) - A practical functional library for JavaScript programmers
+* [Type Signatures](https://github.com/ramda/ramda/wiki/Type-Signatures)
 
 
 ## Responsive Design
@@ -283,6 +281,7 @@ pigments
 
 ## HTML
 
+* [HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png) - which HTML5 element you should use
 * [HTML element reference (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * [Dive into HTML5](http://diveintohtml5.info/)
 * [Don't use only h1 elements](https://www.w3.org/wiki/HTML/Usage/Headings/h1only)
