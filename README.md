@@ -101,6 +101,7 @@ pigments
 
 ## JavaScript
 
+* [Native HTML5 Form Validation. The way you want it. In 6 lines of code.](https://daverupert.com/2017/11/happier-html5-forms/)
 * [Observing your web app](https://ericbidelman.tumblr.com/post/149032341876/observing-your-web-app) - a dozen+ examples of monitoring changes in a web applicatio
 * [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Dom4](http://webreflection.github.io/dom4/) - a fully tested and covered polyfill for new DOM Level 4 entries
