@@ -339,6 +339,7 @@ Typography Tools
 
 ## Web Services
 
+* [Base64 file encoder](http://jpillora.com/base64-encoder/)
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping
 * [JSON Generator](http://www.json-generator.com/)
 * [Domain lookup](http://domainr.build/) - with a domain autocomplete
