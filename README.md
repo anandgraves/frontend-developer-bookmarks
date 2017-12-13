@@ -205,6 +205,7 @@ pigments
  * [`font-display` for the Masses](https://css-tricks.com/font-display-masses/)
 
 ### Articles/Presentations/Video
+  * [8 simple rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture)
   * ['The Fab Four Technique'](https://codepen.io/thierry/pen/ZQgEoZ?editors=1100) - Responsive styles without media queries using calc, min-width, width and max-width
   * [https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1](http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works)
   * [Aligning Text Smartly in CSS](http://nocode.in/aligning-text-smartly-in-css/)
