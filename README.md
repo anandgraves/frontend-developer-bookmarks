@@ -1,43 +1,14 @@
 # Frontend Developer Bookmarks
 
 
-## Project approaches
-
-* Content-first approach  
-  UX/Visual Designer should work together with the content creator to create a visual design.  
-  [Designing Content-First for a Better UX](https://gathercontent.com/blog/designing-content-first-for-a-better-ux)  
-  [Steph Hay - Content-first UX Design](https://vimeo.com/119859080)
-* Always mobile first for responsive design  
-  Even when there is no visual design for smaller devices than desktop.
-* Create reusable responsive components instead of pages  
-  [From Pages to Patterns: An Exercise for Everyone
-](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone) - build components instead of pages
-* No unnecessary deadlines
-
-
 ## General
 
 * [Pragmatic Programmer Reference](https://blog.codinghorror.com/a-pragmatic-quick-reference/)
 * [Software licenses in plain English](https://tldrlegal.com/)
-* [What to learn in 2017 if you’re a frontend developer](https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.kqhs6a2dg)
-* [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.3x1tbyrfv)
 * [Enki](https://enki.com/) - the 5-minute daily workout for your dev skills
-* [Front-end Conferences (video)](https://github.com/dmytroyarmak/frontend-dev-resources#conferences)
 * [Why I switched to Android after 7 years of iOS](https://joreteg.com/blog/why-i-switched-to-android)
-* [From Pages to Patterns: An Exercise for Everyone
-](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone) - build components instead of pages
 * [The Fallacy of Keeping Up](https://timkadlec.com/2015/09/the-fallacy-of-keeping-up/)
 * [What is a programming language?](http://pgbovine.net/what-is-a-programming-language.htm)
-* [Front-end Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
-* [W3C Web Design & Application](https://www.w3.org/standards/webdesign/) - specifications for the core web technologies
-* [W3C Web APIs](https://www.w3.org/standards/webdesign/script) - overview of all the web api specs
-* [DevDocs](http://devdocs.io/) - css, dom, dom events, html, http, javascript, frameworks & libraries
-* [What browser are you using?](http://www.whatsmybrowser.org/) - info is available on a unique url
-* [Gigantic list of Frontend developer bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-* [Libraries.io](https://libraries.io) - search in open source libraries
-* [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
-* [thoughtbot Playbook](https://thoughtbot-playbook.s3.amazonaws.com/playbook/playbook.pdf) - the who, what, why, where, when, and how of modern application development (pdf)
-* [U.S. Digital Services Playbook](https://playbook.cio.gov/)
 * [Site scan](https://dev.windows.com/en-us/microsoft-edge/tools/staticscan/) - run a quick code scan on any URL to check for out-of-date libraries, layout issues, and accessibility
 * [101 Ways to Make Your Website More Awesome](https://www.awesomeweb.com/blog/make-website-awesome)
 * [Asciiflow](http://www.asciidraw.com) - Draw ascii
