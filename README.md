@@ -309,10 +309,21 @@ Typography Tools
 * [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for OSX
 
 
+## API
+
+* [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping
+* [httpstat.us](http://httpstat.us/) - service for generating different HTTP codes
+* [mockAPI](http://www.mockapi.io/docs) - generate custom data, and preform operations on it using RESTful interface and is meant to be used as a prototyping/testing/learning tool
+* [HTTP Request & Response Service](http://httpbin.org/) - HTTP Request & Response Service
+* [https://www.googleapis.com/books/v1/volumes?q=isbn:0747532699](Google Books API)
+* [https://itunes.apple.com/search?term=Frank+Ocean](iTunes Search API) - $ http https://itunes.apple.com/search?term=Frank+Ocean
+* [https://github.com/apilayer/restcountries](REST Countries)
+
+
 ## Web Services
 
 * [Base64 file encoder](http://jpillora.com/base64-encoder/)
-* [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping
 * [JSON Generator](http://www.json-generator.com/)
 * [Domain lookup](http://domainr.build/) - with a domain autocomplete
 * [Sequence Diagrams](http://knsv.github.io/mermaid/live_editor/) - generate diagrams with Markdown like markup
@@ -329,8 +340,6 @@ for front-end developers
 * [cdnjs.com](https://cdnjs.com/) - cdn for js, css, images, icon fonts, etc.
 * [Polyfill Service](https://cdn.polyfill.io) - [An easier way of using polyfills](https://hacks.mozilla.org/2014/11/an-easier-way-of-using-polyfills/)
 * [Cloudflare](https://www.cloudflare.com/)
-* [httpstat.us](http://httpstat.us/) - service for generating different HTTP codes
-* [mockAPI](http://www.mockapi.io/docs) - generate custom data, and preform operations on it using RESTful interface and is meant to be used as a prototyping/testing/learning tool
 * [data: URI Generator](https://dopiaza.org/tools/datauri/index.php)
 
 
@@ -496,10 +505,8 @@ Get help and help others through several channels.
 
 * [Middleware Guide](https://stephensugden.com/middleware_guide/)
 * [Extending and consolidating hosts files from a variety of sources](https://github.com/StevenBlack/hosts)
-* [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 * [VirtualBox](https://virtualbox.org)
 * [Htaccess](https://github.com/h5bp/html5-boilerplate/blob/master/dist/.htaccess) - html5 boilerplate
-* [HTTP Request & Response Service](http://httpbin.org/) - HTTP Request & Response Service
 
 
 ## SEO
