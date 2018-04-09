@@ -316,9 +316,9 @@ Typography Tools
 * [httpstat.us](http://httpstat.us/) - service for generating different HTTP codes
 * [mockAPI](http://www.mockapi.io/docs) - generate custom data, and preform operations on it using RESTful interface and is meant to be used as a prototyping/testing/learning tool
 * [HTTP Request & Response Service](http://httpbin.org/) - HTTP Request & Response Service
-* [https://www.googleapis.com/books/v1/volumes?q=isbn:0747532699](Google Books API)
-* [https://itunes.apple.com/search?term=Frank+Ocean](iTunes Search API) - $ http https://itunes.apple.com/search?term=Frank+Ocean
-* [https://github.com/apilayer/restcountries](REST Countries)
+* [Google Books API](https://www.googleapis.com/books/v1/volumes?q=isbn:0747532699)
+* [iTunes Search API](https://itunes.apple.com/search?term=Frank+Ocean) - $ http https://itunes.apple.com/search?term=Frank+Ocean
+* [REST Countries](https://github.com/apilayer/restcountries)
 
 
 ## Web Services
