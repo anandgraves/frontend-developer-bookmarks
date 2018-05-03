@@ -38,9 +38,6 @@
 
 ## JavaScript
 
-* [Native HTML5 Form Validation. The way you want it. In 6 lines of code.](https://daverupert.com/2017/11/happier-html5-forms/)
-* [Observing your web app](https://ericbidelman.tumblr.com/post/149032341876/observing-your-web-app) - a dozen+ examples of monitoring changes in a web applicatio
-* [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Dom4](http://webreflection.github.io/dom4/) - a fully tested and covered polyfill for new DOM Level 4 entries
 * [querySelectorAll from an element probably doesn't do what you think it does](https://www.lvh.io/posts/queryselectorall-from-an-element-probably-doesnt-do-what-you-think-it-does.html)
 * [What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.iv5md8utb) - Class inheritance has the fragile bass class problem. Favor composition over inheritance.
@@ -65,11 +62,6 @@
 * [Practical ES6](https://ponyfoo.com/books/practical-es6/) - a free ebook that focuses on modularity and ES6 features
 
 
-## Promises
-
-* [JavaScript Promises 101](https://bitsofco.de/javascript-promises-101/)
-
-
 ## ES6
 
 * [Nodeschool.io - learn ES6](https://github.com/domenic/count-to-6) - An intro to some ES6 features via a set of self-guided workshops
@@ -90,30 +82,13 @@
 * [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases
 * [Flow](https://flowtype.org/) - Adds static typing to JavaScript to improve developer productivity and code quality.
 * [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
-* [Font Face Observer](https://fontfaceobserver.com/) -  fast and simple promised based web font loader
 * [flexibility](https://github.com/10up/flexibility) - Use flexbox while supporting older Internet Explorers
 * [fetch](https://github.com/github/fetch) - polyfill for making xhr requests using promises
 * [moment](https://github.com/moment/moment/) - parse, validate, manipulate, and display dates in javascript
 * [Papa Parse](http://papaparse.com/) - powerful in-browser CSV parser
-* [microjs](http://microjs.com/) - micro-frameworks and micro-libraries
 * [hashids](http://hashids.org/) - generate short unique ids from integers
 * [is.js](https://github.com/arasatasaygin/is.js) - micro check library
-* [fastclick](https://github.com/ftlabs/fastclick) - polyfill to remove click delays on browsers with touch UIs
 * [Gremlins.js](https://github.com/marmelab/gremlins.js) - monkey testing library for web apps and node.js. Use the [Gremlins.js bookmarklet](https://rawgit.com/marmelab/gremlins.js/master/bookmarklet.html) for 1-click testing
-* [Chosen](http://harvesthq.github.io/chosen/) - a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
-
-
-## JavaScript: jQuery
-
-* [jQuery style guide (De Voorhoede)](https://github.com/voorhoede/jquery-style-guide)
-* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
-* [jQuery to VanillaJS](http://codeblog.cz/vanilla/) - Polyfill for the DOM4 standard
-
-
-## No Frameworks
-
-* [Do Not Learn Frameworks. Learn the Architecture](http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture)
-* [No more JS frameworks](http://bitworking.org/news/2014/05/zero_framework_manifesto)
 
 
 ## Courses
@@ -166,15 +141,12 @@
   * [Reasonable Standard for CSS Stylesheet Structure](https://github.com/rstacruz/rscss)
   * [Specificity Calculator](http://specificity.keegan.st/)
   * [csscss](http://zmoazeni.github.io/csscss/) | [gulp-csscss](https://github.com/morishitter/gulp-csscss)
-  * [Hologram](http://trulia.github.io/hologram/) - living styleguides with a user friendly setup
   * [Parker](https://github.com/katiefenn/parker) - a stylesheet analysis tool that runs metrics on your stylesheets and will report on their complexity
 
 ### Guidelines
   * [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)
   * [css {guide: lines;}](http://cssguidelin.es/)
-  * [Sass Guidelines](http://sass-guidelin.es/)
   * [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/)
-  * [Primer](http://primercss.io/) - css toolkit and guidelines that power 
 
 ### Resources
   * [CSSWizardry](http://csswizardry.com/)
@@ -183,12 +155,9 @@
 ### Miscellaneous
   * **[CSS Reference](http://tympanus.net/codrops/css_reference/)**
   * [cssreference.io](http://cssreference.io/) - learn by visual examples
-  * [Decorative Text Underline](https://codepen.io/jonneal/pen/PzGYEE?editors=0100)
   * [currentColor](https://css-tricks.com/currentcolor/) - [issues in browsers](http://stackoverflow.com/a/16560019)
-  * [Vendor-prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview/)
   * [Style Guide Resources](http://styleguides.io/)
   * [Pure CSS loading animations](http://connoratherton.com/loaders)
-  * [How to center in CSS](http://howtocenterincss.com/)
 
 
 
