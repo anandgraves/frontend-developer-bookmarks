@@ -79,7 +79,6 @@ pigments
 * [querySelectorAll from an element probably doesn't do what you think it does](https://www.lvh.io/posts/queryselectorall-from-an-element-probably-doesnt-do-what-you-think-it-does.html)
 * [What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.iv5md8utb) - Class inheritance has the fragile bass class problem. Favor composition over inheritance.
 * [JavaScript Guiding Principles](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.fdgg9w4td)
-* [Everyone has JavaScript, right?](http://kryogenix.org/code/browser/everyonehasjs.html)
 * [ECMAScript 5 Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
 * [From jQuery to vanilla JS](http://codeblog.cz/vanilla/) - examples are written with the upcoming dom4 standard in mind. A polyfill is available.
 * [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures) - an extensive explanation of closures with visuals
@@ -97,16 +96,11 @@ pigments
 
 ## ES6 / ES2015
 
-* [ES6 in Depth](https://ponyfoo.com/articles/tagged/es6-in-depth) - A twenty-four article-long series of pragmatic articles
 * [Practical ES6](https://ponyfoo.com/books/practical-es6/) - a free ebook that focuses on modularity and ES6 features
-* [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20&%20beyond)
 
 
 ## Promises
 
-* [Promisees](http://bevacqua.github.io/promisees/) - Promise visualization playground to understand how they work
-* [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - Very well written article to understand Promises.
-* [JavaScript Promises - Udacity](https://www.udacity.com/course/javascript-promises--ud898)
 * [JavaScript Promises 101](https://bitsofco.de/javascript-promises-101/)
 
 
