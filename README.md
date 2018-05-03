@@ -14,40 +14,6 @@
 * [Asciiflow](http://www.asciidraw.com) - Draw ascii
 
 
-## Accessibility
-
-* [Elinks](http://elinks.or.cz/) - full-featured text browser, install with ```brew install elinks```
-* [ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Some practical ARIA examples to enhance your application accessibility (by @heydonworks)
-* [Accessibility examples](http://www.oaa-accessibility.org/) - Examples using ARIA roles, properties and states
-* [WebAIM](http://webaim.org/articles/)
-
-
-## Atom Plugins
-
-* Install list of Atom plugins (https://github.com/mehcode/awesome-atom)
-``` 
-apm install atom-beautify \
-merge-conflicts \
-expand-selection-to-quotes \
-file-icons \
-linter \
-linter-php \
-linter-js-standard \
-advanced-open-file \
-code-peek \
-hyperclick \
-js-hyperclick \
-hyperclick-php \
-toggle-quotes \
-atom-ternjs \
-autocomplete-modules \
-auto-update-packages \
-autocomplete-php \
-emmet \
-pigments
-```
-
-
 ## Progressive Enhancement
 
 * [Using progressive enhancement (gov.uk)](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
