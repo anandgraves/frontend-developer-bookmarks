@@ -226,17 +226,6 @@ Typography Tools
   * [Type Sample](http://www.typesample.com/) - identifying and sampling web fonts
 
 
-## WordPress
-
-* [Search and replace for WordPress databases](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/)
-* [Sage](https://roots.io/sage/) - wordpress starter theme
-* [Using Sage/Roots 8.0.0](https://www.youtube.com/watch?v=F6U4GcCRFp0) - presentation (youtube)
-* [Bedrock](https://roots.io/bedrock/) - WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure
-* [Best practices for WordPress plugin development](https://developer.wordpress.org/plugins/the-basics/best-practices/)
-* [Advanced Custom Fields](https://www.advancedcustomfields.com/)
-* [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for OSX
-
-
 ## API
 
 * [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
