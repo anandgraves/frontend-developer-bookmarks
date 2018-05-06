@@ -24,11 +24,6 @@
 * [Hijax: Progressive Enhancement with Ajax](http://domscripting.com/presentations/xtech2006/)
 
 
-## Progressive Web Apps
-
-* [Progressive Web Apps - Google](https://developers.google.com/web/progressive-web-apps?hl=en)
-
-
 ## JavaScript Excercises/Courses/Assesments
 
 * [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
@@ -108,7 +103,6 @@
 
 ### Future
  * [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
- * [`font-display` for the Masses](https://css-tricks.com/font-display-masses/)
 
 ### Articles/Presentations/Video
   * [8 simple rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture)
