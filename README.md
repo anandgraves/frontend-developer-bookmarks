@@ -447,6 +447,7 @@ Get help and help others through several channels.
 
 ## Dummy content
 
+* [LoremFlickr](https://loremflickr.com/) - Placeholder images
 * [Lists](https://lists.design/) - A gallery of real data ready to be placed in your design
 * [fony](https://github.com/captainsafia/fony) - A simple command line tool for generating fake data from a template string
 * [faker.js](https://github.com/marak/faker.js) - https://github.com/marak/faker.js
